@@ -1,0 +1,1201 @@
+Subject,itemID,adjective,adjEighth,adjFifth,adjFirst,adjFourth,adjSecond,adjSeventh,adjSixth,adjThird,DegreeOrder,Condition,Restrictor,Expression,Predicate,Position,Answer
+166,1,tall,0,100,100,99,32,80,100,92,EBDFHGCA,Tr,ABGH,Num2,drink coffee,1,100
+166,1,tall,0,100,100,99,32,80,100,92,EBDFHGCA,Fa,AH,Conj2,have roommates,3,0
+166,1,tall,0,100,100,99,32,80,100,92,EBDFHGCA,T1,ADFGH,Num3,play video games,2,100
+166,1,tall,0,100,100,99,32,80,100,92,EBDFHGCA,T2,ABDE,Some,use public transport,4,35
+35,201,profitable,100,0,15,100,100,100,0,79,BGDEACHF,Tr,GH,Conj2,have employee uniforms,4,100
+35,201,profitable,100,0,15,100,100,100,0,79,BGDEACHF,Fa,ABD,Num2,have 24/7 customer support,3,15
+35,201,profitable,100,0,15,100,100,100,0,79,BGDEACHF,T1,DEGH,Some,are construction companies,2,6
+35,201,profitable,100,0,15,100,100,100,0,79,BGDEACHF,T2,DEH,All,are family businesses,1,87
+123,2,powerful,68,66,72,71,74,84,82,72,DAHBGEFC,Tr,FGH,All,have heated seats,1,80
+123,2,powerful,68,66,72,71,74,84,82,72,DAHBGEFC,Fa,ABH,Conj3,are black,2,76
+123,2,powerful,68,66,72,71,74,84,82,72,DAHBGEFC,T1,DEGH,Some,have a touchscreen,4,80
+123,2,powerful,68,66,72,71,74,84,82,72,DAHBGEFC,T2,ABDE,None,have leather interiors,3,84
+53,202,safe,100,83,60,15,26,93,39,68,DBEAFCGH,Tr,ABGH,Num2,have a public library,4,100
+53,202,safe,100,83,60,15,26,93,39,68,DBEAFCGH,Fa,ABH,None,have a hardware store,2,2
+53,202,safe,100,83,60,15,26,93,39,68,DBEAFCGH,T1,AEFGH,Num3,are situated North of the city center,1,100
+53,202,safe,100,83,60,15,26,93,39,68,DBEAFCGH,T2,DEH,All,border a river,3,10
+9,3,young,55,38,13,36,13,30,41,35,GHECDBFA,Tr,GH,Conj2,use black pens,1,71
+9,3,young,55,38,13,36,13,30,41,35,GHECDBFA,Fa,ABEH,All,are left-handed,4,44
+9,3,young,55,38,13,36,13,30,41,35,GHECDBFA,T1,EGH,Conj3,keep journals,3,35
+9,3,young,55,38,13,36,13,30,41,35,GHECDBFA,T2,ABEH,Num2,have houseplants,2,39
+272,203,complete,17,0,100,26,72,71,100,45,HFDCAGEB,Tr,FGH,Conj3,are about credit card fraud,4,79
+272,203,complete,17,0,100,26,72,71,100,45,HFDCAGEB,Fa,AH,Conj2,require an official statement from the bank,2,74
+272,203,complete,17,0,100,26,72,71,100,45,HFDCAGEB,T1,DEGH,All,involve a repeat offender,1,54
+272,203,complete,17,0,100,26,72,71,100,45,HFDCAGEB,T2,ABDE,None,affect retired clients,3,80
+1,4,hot,65,100,30,31,76,100,80,100,ADHBGEFC,Tr,FGH,All,were workdays,4,98
+1,4,hot,65,100,30,31,76,100,80,100,ADHBGEFC,Fa,ABD,Num2,had high humidity,1,39
+1,4,hot,65,100,30,31,76,100,80,100,ADHBGEFC,T1,DEGH,Some,were windy,2,99
+1,4,hot,65,100,30,31,76,100,80,100,ADHBGEFC,T2,DEH,Conj3,had heavy traffic,3,94
+16,5,expensive,87,78,80,83,81,72,79,83,FBDGECAH,Tr,FGH,Conj3,have reflector headlights,2,89
+16,5,expensive,87,78,80,83,81,72,79,83,FBDGECAH,Fa,ABH,None,have tinted windows,1,28
+16,5,expensive,87,78,80,83,81,72,79,83,FBDGECAH,T1,AEFGH,Num3,have the gas tank door on the left side,3,97
+16,5,expensive,87,78,80,83,81,72,79,83,FBDGECAH,T2,DEH,All,are grey,4,86
+137,204,full,100,76,100,90,94,58,61,14,GFAEDBCH,Tr,AEGH,Some,included a layover,4,50
+137,204,full,100,76,100,90,94,58,61,14,GFAEDBCH,Fa,ABEH,All,left in the morning,3,0
+137,204,full,100,76,100,90,94,58,61,14,GFAEDBCH,T1,AEFGH,Num3,used a Boeing model plane,1,100
+137,204,full,100,76,100,90,94,58,61,14,GFAEDBCH,T2,ABDE,None,were international,2,87
+31,6,large,72,64,73,76,66,67,63,72,DHFCGAEB,Tr,ABC,None,are located on the top floor,1,73
+31,6,large,72,64,73,76,66,67,63,72,DHFCGAEB,Fa,ABD,Num2,come pre-furnished,2,24
+31,6,large,72,64,73,76,66,67,63,72,DHFCGAEB,T1,DEGH,All,have double-glazed windows,3,62
+31,6,large,72,64,73,76,66,67,63,72,DHFCGAEB,T2,ABDE,Some,have air conditioning,4,32
+79,205,tall,9,88,50,100,65,74,14,18,FDBHGCEA,Tr,FGH,All,have roommates,2,100
+79,205,tall,9,88,50,100,65,74,14,18,FDBHGCEA,Fa,ABDE,Num3,play video games,1,0
+79,205,tall,9,88,50,100,65,74,14,18,FDBHGCEA,T1,EH,Conj2,use public transport,4,100
+79,205,tall,9,88,50,100,65,74,14,18,FDBHGCEA,T2,ABDH,Num2,drink coffee,3,11
+38,7,late,100,100,1,0,0,0,100,0,DBECFHAG,Tr,FGH,All,drink tea,4,100
+38,7,late,100,100,1,0,0,0,100,0,DBECFHAG,Fa,ABDE,Num3,work in HR,1,0
+38,7,late,100,100,1,0,0,0,100,0,DBECFHAG,T1,DH,Conj2,use post-it notes,2,0
+38,7,late,100,100,1,0,0,0,100,0,DBECFHAG,T2,ABDE,Some,bring packed lunches,3,0
+199,206,powerful,100,26,8,51,100,100,100,78,AEDCBFHG,Tr,FGH,Conj3,have heated seats,1,100
+199,206,powerful,100,26,8,51,100,100,100,78,AEDCBFHG,Fa,AB,Some,have a touchscreen,2,0
+199,206,powerful,100,26,8,51,100,100,100,78,AEDCBFHG,T1,DEGH,All,have leather interiors,4,82
+199,206,powerful,100,26,8,51,100,100,100,78,AEDCBFHG,T2,ABDH,Num2,are black,3,89
+49,8,spicy,0,84,100,82,0,62,70,4,HCAGFEDB,Tr,ABGH,Num2,contain lemongrass,2,100
+49,8,spicy,0,84,100,82,0,62,70,4,HCAGFEDB,Fa,ABH,None,come with complimentary prawn crackers,1,0
+49,8,spicy,0,84,100,82,0,62,70,4,HCAGFEDB,T1,DH,Conj2,contain holy basil,4,70
+49,8,spicy,0,84,100,82,0,62,70,4,HCAGFEDB,T2,DEH,All,are served with noodles,3,88
+270,207,young,100,100,50,100,50,50,50,100,ACHFGBDE,Tr,FGH,All,are left-handed,2,100
+270,207,young,100,100,50,100,50,50,50,100,ACHFGBDE,Fa,ABDE,Num3,keep journals,3,0
+270,207,young,100,100,50,100,50,50,50,100,ACHFGBDE,T1,DEGH,Some,use black pens,1,100
+270,207,young,100,100,50,100,50,50,50,100,ACHFGBDE,T2,ABDE,None,have houseplants,4,12
+34,9,profitable,54,77,72,38,37,67,26,64,GAFEHBDC,Tr,AFGH,Num3,are family businesses,4,72
+34,9,profitable,54,77,72,38,37,67,26,64,GAFEHBDC,Fa,ABH,None,have employee uniforms,1,61
+34,9,profitable,54,77,72,38,37,67,26,64,GAFEHBDC,T1,DEGH,All,have 24/7 customer support,3,62
+34,9,profitable,54,77,72,38,37,67,26,64,GAFEHBDC,T2,DEH,Conj3,are construction companies,2,65
+63,208,hot,27,37,70,69,39,71,65,66,CEAGHDFB,Tr,FGH,Conj3,had high humidity,3,72
+63,208,hot,27,37,70,69,39,71,65,66,CEAGHDFB,Fa,ABDE,Num3,were workdays,1,74
+63,208,hot,27,37,70,69,39,71,65,66,CEAGHDFB,T1,DEGH,All,had heavy traffic,2,76
+63,208,hot,27,37,70,69,39,71,65,66,CEAGHDFB,T2,ABDE,Some,were windy,4,71
+99,10,safe,38,100,52,9,0,77,55,21,EACBHFGD,Tr,AFGH,Num3,border a river,1,76
+99,10,safe,38,100,52,9,0,77,55,21,EACBHFGD,Fa,ABH,None,have a public library,2,66
+99,10,safe,38,100,52,9,0,77,55,21,EACBHFGD,T1,DEGH,Some,are situated North of the city center,3,50
+99,10,safe,38,100,52,9,0,77,55,21,EACBHFGD,T2,DEH,All,have a hardware store,4,39
+251,209,expensive,78,30,32,85,98,69,28,67,HAECFGDB,Tr,FGH,All,are grey,2,74
+251,209,expensive,78,30,32,85,98,69,28,67,HAECFGDB,Fa,ABH,None,have reflector headlights,4,22
+251,209,expensive,78,30,32,85,98,69,28,67,HAECFGDB,T1,EGH,Conj3,have the gas tank door on the left side,1,86
+251,209,expensive,78,30,32,85,98,69,28,67,HAECFGDB,T2,ABDH,Num2,have tinted windows,3,79
+67,11,complete,100,0,1,0,0,0,100,0,CAEDBGFH,Tr,AFGH,Num3,are about credit card fraud,4,0
+67,11,complete,100,0,1,0,0,0,100,0,CAEDBGFH,Fa,ABH,None,involve a repeat offender,1,0
+67,11,complete,100,0,1,0,0,0,100,0,CAEDBGFH,T1,DH,Conj2,affect retired clients,3,0
+67,11,complete,100,0,1,0,0,0,100,0,CAEDBGFH,T2,DEH,Conj3,require an official statement from the bank,2,0
+104,210,large,100,48,21,70,67,50,82,39,ACEFGDBH,Tr,ABC,None,have air conditioning,4,100
+104,210,large,100,48,21,70,67,50,82,39,ACEFGDBH,Fa,ABE,Num2,are located on the top floor,2,0
+104,210,large,100,48,21,70,67,50,82,39,ACEFGDBH,T1,DEGH,All,come pre-furnished,1,100
+104,210,large,100,48,21,70,67,50,82,39,ACEFGDBH,T2,DEH,Conj3,have double-glazed windows,3,100
+288,211,late,37,72,69,30,82,27,76,31,FHGBDAEC,Tr,ABGH,Num2,bring packed lunches,1,81
+288,211,late,37,72,69,30,82,27,76,31,FHGBDAEC,Fa,ABEH,All,work in HR,4,37
+288,211,late,37,72,69,30,82,27,76,31,FHGBDAEC,T1,ABD,None,drink tea,3,65
+288,211,late,37,72,69,30,82,27,76,31,FHGBDAEC,T2,ABDE,Some,use post-it notes,2,34
+80,12,full,77,0,100,59,5,26,100,70,GBEDAHCF,Tr,FGH,All,used a Boeing model plane,4,100
+80,12,full,77,0,100,59,5,26,100,70,GBEDAHCF,Fa,ABDE,Num3,were international,2,24
+80,12,full,77,0,100,59,5,26,100,70,GBEDAHCF,T1,DGH,Conj3,included a layover,1,67
+80,12,full,77,0,100,59,5,26,100,70,GBEDAHCF,T2,AE,Conj2,left in the morning,3,30
+227,212,spicy,57,0,56,36,0,22,83,0,FBAECHDG,Tr,ADGH,Some,contain holy basil,2,0
+227,212,spicy,57,0,56,36,0,22,83,0,FBAECHDG,Fa,ABDH,All,contain lemongrass,3,0
+227,212,spicy,57,0,56,36,0,22,83,0,FBAECHDG,T1,DGH,Conj3,come with complimentary prawn crackers,1,100
+227,212,spicy,57,0,56,36,0,22,83,0,FBAECHDG,T2,ADEH,Num3,are served with noodles,4,0
+149,213,profitable,6,4,88,98,100,63,89,9,EHCGAFDB,Tr,AFGH,Num3,have 24/7 customer support,1,2
+149,213,profitable,6,4,88,98,100,63,89,9,EHCGAFDB,Fa,ABE,Num2,are construction companies,4,4
+149,213,profitable,6,4,88,98,100,63,89,9,EHCGAFDB,T1,ABD,None,are family businesses,3,18
+149,213,profitable,6,4,88,98,100,63,89,9,EHCGAFDB,T2,DEH,Conj3,have employee uniforms,2,94
+253,13,tall,0,0,1,100,0,100,100,100,BAGFCEHD,Tr,ABGH,Num2,drink coffee,3,100
+253,13,tall,0,0,1,100,0,100,100,100,BAGFCEHD,Fa,ABH,None,use public transport,4,0
+253,13,tall,0,0,1,100,0,100,100,100,BAGFCEHD,T1,EGH,Conj3,have roommates,2,0
+253,13,tall,0,0,1,100,0,100,100,100,BAGFCEHD,T2,DEH,All,play video games,1,0
+243,214,safe,82,72,18,88,50,30,73,38,ADBHFECG,Tr,GH,Conj2,have a public library,3,88
+243,214,safe,82,72,18,88,50,30,73,38,ADBHFECG,Fa,ABH,Conj3,border a river,2,12
+243,214,safe,82,72,18,88,50,30,73,38,ADBHFECG,T1,ABDGH,Num2,have a hardware store,4,30
+243,214,safe,82,72,18,88,50,30,73,38,ADBHFECG,T2,ABDE,None,are situated North of the city center,1,4
+224,14,powerful,77,29,70,30,71,66,68,66,ACDFEBHG,Tr,AEGH,Some,are black,3,36
+224,14,powerful,77,29,70,30,71,66,68,66,ACDFEBHG,Fa,AH,Conj2,have leather interiors,4,77
+224,14,powerful,77,29,70,30,71,66,68,66,ACDFEBHG,T1,ADFGH,Num3,have heated seats,2,68
+224,14,powerful,77,29,70,30,71,66,68,66,ACDFEBHG,T2,ABDE,None,have a touchscreen,1,66
+108,215,complete,76,36,70,34,72,70,65,64,DEHBACGF,Tr,FGH,All,affect retired clients,3,32
+108,215,complete,76,36,70,34,72,70,65,64,DEHBACGF,Fa,ABH,None,are about credit card fraud,4,61
+108,215,complete,76,36,70,34,72,70,65,64,DEHBACGF,T1,DEGH,Some,involve a repeat offender,1,78
+108,215,complete,76,36,70,34,72,70,65,64,DEHBACGF,T2,ADEH,Num3,require an official statement from the bank,2,85
+217,15,young,35,0,92,68,100,63,59,36,GHBFADEC,Tr,AFGH,Num3,have houseplants,3,89
+217,15,young,35,0,92,68,100,63,59,36,GHBFADEC,Fa,AB,Some,are left-handed,4,0
+217,15,young,35,0,92,68,100,63,59,36,GHBFADEC,T1,ABEGH,Num2,keep journals,1,100
+217,15,young,35,0,92,68,100,63,59,36,GHBFADEC,T2,ABDE,None,use black pens,2,83
+207,216,full,0,22,1,9,48,100,15,0,FBGECDAH,Tr,GH,Conj2,included a layover,1,0
+207,216,full,0,22,1,9,48,100,15,0,FBGECDAH,Fa,ABDE,Num3,were international,4,0
+207,216,full,0,22,1,9,48,100,15,0,FBGECDAH,T1,DEGH,Some,left in the morning,3,0
+207,216,full,0,22,1,9,48,100,15,0,FBGECDAH,T2,DEH,All,used a Boeing model plane,2,0
+84,16,hot,33,55,100,72,77,61,77,61,HFEDBGCA,Tr,ABGH,Num2,had high humidity,2,50
+84,16,hot,33,55,100,72,77,61,77,61,HFEDBGCA,Fa,AH,Conj2,had heavy traffic,1,50
+84,16,hot,33,55,100,72,77,61,77,61,HFEDBGCA,T1,EGH,Conj3,were windy,3,83
+84,16,hot,33,55,100,72,77,61,77,61,HFEDBGCA,T2,ADEH,Num3,were workdays,4,50
+225,217,tall,76,38,14,92,83,57,23,100,AFHGCBDE,Tr,ABGH,Num2,drink coffee,1,100
+225,217,tall,76,38,14,92,83,57,23,100,AFHGCBDE,Fa,ABEH,All,have roommates,3,0
+225,217,tall,76,38,14,92,83,57,23,100,AFHGCBDE,T1,AEFGH,Num3,play video games,4,100
+225,217,tall,76,38,14,92,83,57,23,100,AFHGCBDE,T2,AE,Conj2,use public transport,2,0
+157,17,expensive,100,24,50,80,79,40,85,60,GFCDAEBH,Tr,AFGH,Num3,are grey,1,63
+157,17,expensive,100,24,50,80,79,40,85,60,GFCDAEBH,Fa,ABE,Num2,have reflector headlights,2,24
+157,17,expensive,100,24,50,80,79,40,85,60,GFCDAEBH,T1,DEGH,All,have tinted windows,4,65
+157,17,expensive,100,24,50,80,79,40,85,60,GFCDAEBH,T2,AE,Conj2,have the gas tank door on the left side,3,39
+102,218,powerful,74,100,69,50,31,100,23,29,ECBDGAHF,Tr,FGH,All,have leather interiors,2,100
+102,218,powerful,74,100,69,50,31,100,23,29,ECBDGAHF,Fa,ABD,Num2,are black,1,23
+102,218,powerful,74,100,69,50,31,100,23,29,ECBDGAHF,T1,DGH,Conj3,have a touchscreen,4,69
+102,218,powerful,74,100,69,50,31,100,23,29,ECBDGAHF,T2,ABDE,Some,have heated seats,3,63
+20,18,large,99,85,83,93,81,94,75,89,EDAGFBCH,Tr,ABGH,Num2,have air conditioning,4,73
+20,18,large,99,85,83,93,81,94,75,89,EDAGFBCH,Fa,ABH,Conj3,have double-glazed windows,3,84
+20,18,large,99,85,83,93,81,94,75,89,EDAGFBCH,T1,DEGH,Some,come pre-furnished,1,85
+20,18,large,99,85,83,93,81,94,75,89,EDAGFBCH,T2,AD,Conj2,are located on the top floor,2,50
+122,219,young,61,100,5,90,12,44,67,23,ABCGHFDE,Tr,GH,Conj2,keep journals,2,93
+122,219,young,61,100,5,90,12,44,67,23,ABCGHFDE,Fa,ABD,Num2,have houseplants,1,7
+122,219,young,61,100,5,90,12,44,67,23,ABCGHFDE,T1,ADFGH,Num3,are left-handed,3,86
+122,219,young,61,100,5,90,12,44,67,23,ABCGHFDE,T2,ABDE,Some,use black pens,4,55
+106,19,late,100,100,100,50,50,100,50,50,EBACHDGF,Tr,GH,Conj2,work in HR,2,100
+106,19,late,100,100,100,50,50,100,50,50,EBACHDGF,Fa,ABDH,All,bring packed lunches,4,0
+106,19,late,100,100,100,50,50,100,50,50,EBACHDGF,T1,ABD,None,drink tea,1,100
+106,19,late,100,100,100,50,50,100,50,50,EBACHDGF,T2,ABDE,Some,use post-it notes,3,100
+259,220,hot,65,73,63,62,62,63,68,64,BAECDGHF,Tr,FGH,Conj3,had high humidity,4,67
+259,220,hot,65,73,63,62,62,63,68,64,BAECDGHF,Fa,ABE,Num2,had heavy traffic,1,74
+259,220,hot,65,73,63,62,62,63,68,64,BAECDGHF,T1,EH,Conj2,were windy,3,50
+259,220,hot,65,73,63,62,62,63,68,64,BAECDGHF,T2,DEH,All,were workdays,2,27
+193,20,spicy,80,28,61,74,63,34,87,79,FEBDHAGC,Tr,ABGH,Num2,are served with noodles,1,100
+193,20,spicy,80,28,61,74,63,34,87,79,FEBDHAGC,Fa,AH,Conj2,contain lemongrass,4,55
+193,20,spicy,80,28,61,74,63,34,87,79,FEBDHAGC,T1,DEGH,Some,contain holy basil,2,0
+193,20,spicy,80,28,61,74,63,34,87,79,FEBDHAGC,T2,ADEH,Num3,come with complimentary prawn crackers,3,91
+216,221,expensive,74,66,68,19,82,43,72,78,DEAGHFCB,Tr,ABC,None,have the gas tank door on the left side,2,71
+216,221,expensive,74,66,68,19,82,43,72,78,DEAGHFCB,Fa,ABDE,Num3,are grey,4,28
+216,221,expensive,74,66,68,19,82,43,72,78,DEAGHFCB,T1,EGH,Conj3,have reflector headlights,3,63
+216,221,expensive,74,66,68,19,82,43,72,78,DEAGHFCB,T2,ABDE,Some,have tinted windows,1,72
+114,21,profitable,71,65,42,64,40,55,56,53,BADFGCEH,Tr,FGH,Conj3,are family businesses,2,67
+114,21,profitable,71,65,42,64,40,55,56,53,BADFGCEH,Fa,ABDE,Num3,have employee uniforms,3,36
+114,21,profitable,71,65,42,64,40,55,56,53,BADFGCEH,T1,ABEGH,Num2,are construction companies,4,76
+114,21,profitable,71,65,42,64,40,55,56,53,BADFGCEH,T2,AE,Conj2,have 24/7 customer support,1,50
+98,222,large,32,67,1,20,50,65,44,100,AFHBEDGC,Tr,GH,Conj2,are located on the top floor,3,100
+98,222,large,32,67,1,20,50,65,44,100,AFHBEDGC,Fa,ABD,Num2,have double-glazed windows,4,0
+98,222,large,32,67,1,20,50,65,44,100,AFHBEDGC,T1,ABD,None,come pre-furnished,1,100
+98,222,large,32,67,1,20,50,65,44,100,AFHBEDGC,T2,DEH,Conj3,have air conditioning,2,70
+112,22,safe,36,0,90,63,31,80,13,60,HCDFABGE,Tr,ABGH,Num2,are situated North of the city center,1,88
+112,22,safe,36,0,90,63,31,80,13,60,HCDFABGE,Fa,ABH,Conj3,have a public library,3,21
+112,22,safe,36,0,90,63,31,80,13,60,HCDFABGE,T1,DEGH,Some,border a river,4,73
+112,22,safe,36,0,90,63,31,80,13,60,HCDFABGE,T2,AD,Conj2,have a hardware store,2,17
+120,223,late,80,84,1,0,69,0,62,0,AFBCHEDG,Tr,ABC,None,use post-it notes,4,100
+120,223,late,80,84,1,0,69,0,62,0,AFBCHEDG,Fa,ABH,Conj3,drink tea,3,0
+120,223,late,80,84,1,0,69,0,62,0,AFBCHEDG,T1,AEFGH,Num3,work in HR,2,8
+120,223,late,80,84,1,0,69,0,62,0,AFBCHEDG,T2,AE,Conj2,bring packed lunches,1,0
+241,23,complete,69,98,65,9,0,30,24,44,GAEBHDCF,Tr,ABGH,Num2,require an official statement from the bank,4,86
+241,23,complete,69,98,65,9,0,30,24,44,GAEBHDCF,Fa,ABDE,Num3,involve a repeat offender,1,70
+241,23,complete,69,98,65,9,0,30,24,44,GAEBHDCF,T1,EH,Conj2,are about credit card fraud,3,66
+241,23,complete,69,98,65,9,0,30,24,44,GAEBHDCF,T2,ABDE,None,affect retired clients,2,26
+205,224,spicy,0,88,100,0,0,60,89,74,HBEAFGDC,Tr,FGH,All,are served with noodles,3,100
+205,224,spicy,0,88,100,0,0,60,89,74,HBEAFGDC,Fa,ABDE,Num3,contain holy basil,4,0
+205,224,spicy,0,88,100,0,0,60,89,74,HBEAFGDC,T1,DEGH,Some,come with complimentary prawn crackers,2,100
+205,224,spicy,0,88,100,0,0,60,89,74,HBEAFGDC,T2,ABDE,None,contain lemongrass,1,13
+130,24,full,40,20,100,0,86,77,94,100,HEGABFDC,Tr,FGH,All,left in the morning,2,0
+130,24,full,40,20,100,0,86,77,94,100,HEGABFDC,Fa,ABDE,Num3,included a layover,4,0
+130,24,full,40,20,100,0,86,77,94,100,HEGABFDC,T1,DGH,Conj3,used a Boeing model plane,3,92
+130,24,full,40,20,100,0,86,77,94,100,HEGABFDC,T2,AE,Conj2,were international,1,0
+19,225,profitable,68,74,91,80,7,100,2,5,GCAEFBHD,Tr,FGH,Conj3,have employee uniforms,4,100
+19,225,profitable,68,74,91,80,7,100,2,5,GCAEFBHD,Fa,AH,Conj2,have 24/7 customer support,1,1
+19,225,profitable,68,74,91,80,7,100,2,5,GCAEFBHD,T1,ABEGH,Num2,are construction companies,3,52
+19,225,profitable,68,74,91,80,7,100,2,5,GCAEFBHD,T2,DEH,All,are family businesses,2,95
+60,25,tall,0,100,1,100,0,100,100,0,BADGHEFC,Tr,AEGH,Some,use public transport,1,100
+60,25,tall,0,100,1,100,0,100,100,0,BADGHEFC,Fa,ABDE,Num3,drink coffee,3,0
+60,25,tall,0,100,1,100,0,100,100,0,BADGHEFC,T1,DGH,Conj3,have roommates,2,0
+60,25,tall,0,100,1,100,0,100,100,0,BADGHEFC,T2,ABEH,Num2,play video games,4,100
+243,226,safe,70,91,82,65,36,7,60,10,GCBEHDAF,Tr,FGH,All,have a public library,1,90
+243,226,safe,70,91,82,65,36,7,60,10,GCBEHDAF,Fa,AH,Conj2,have a hardware store,3,5
+243,226,safe,70,91,82,65,36,7,60,10,GCBEHDAF,T1,DEGH,Some,border a river,4,30
+243,226,safe,70,91,82,65,36,7,60,10,GCBEHDAF,T2,DEH,Conj3,are situated North of the city center,2,78
+246,26,powerful,82,50,56,68,88,46,89,50,BDGCHEAF,Tr,FGH,All,have a touchscreen,3,71
+246,26,powerful,82,50,56,68,88,46,89,50,BDGCHEAF,Fa,ABH,Conj3,have heated seats,4,74
+246,26,powerful,82,50,56,68,88,46,89,50,BDGCHEAF,T1,DEGH,Some,are black,1,77
+246,26,powerful,82,50,56,68,88,46,89,50,BDGCHEAF,T2,ABDH,Num2,have leather interiors,2,67
+283,227,complete,77,100,74,94,100,50,26,0,EHAFGBCD,Tr,FGH,All,require an official statement from the bank,4,48
+283,227,complete,77,100,74,94,100,50,26,0,EHAFGBCD,Fa,ABE,Num2,involve a repeat offender,1,0
+283,227,complete,77,100,74,94,100,50,26,0,EHAFGBCD,T1,DEGH,Some,affect retired clients,2,98
+283,227,complete,77,100,74,94,100,50,26,0,EHAFGBCD,T2,ABDE,None,are about credit card fraud,3,100
+281,27,young,13,83,37,5,54,100,0,6,EFCBGAHD,Tr,FGH,All,are left-handed,4,79
+281,27,young,13,83,37,5,54,100,0,6,EFCBGAHD,Fa,AB,Some,use black pens,3,0
+281,27,young,13,83,37,5,54,100,0,6,EFCBGAHD,T1,EH,Conj2,have houseplants,1,62
+281,27,young,13,83,37,5,54,100,0,6,EFCBGAHD,T2,DEH,Conj3,keep journals,2,44
+33,228,full,79,18,32,0,43,14,17,0,CBGHEDFA,Tr,FGH,Conj3,used a Boeing model plane,2,71
+33,228,full,79,18,32,0,43,14,17,0,CBGHEDFA,Fa,ABDE,Num3,left in the morning,3,70
+33,228,full,79,18,32,0,43,14,17,0,CBGHEDFA,T1,ABD,None,included a layover,1,72
+33,228,full,79,18,32,0,43,14,17,0,CBGHEDFA,T2,ABDE,Some,were international,4,69
+40,28,hot,100,64,47,27,80,100,0,0,DFBCEAGH,Tr,AFGH,Num3,had high humidity,4,100
+40,28,hot,100,64,47,27,80,100,0,0,DFBCEAGH,Fa,AH,Conj2,were workdays,2,0
+40,28,hot,100,64,47,27,80,100,0,0,DFBCEAGH,T1,DEGH,Some,had heavy traffic,3,100
+40,28,hot,100,64,47,27,80,100,0,0,DFBCEAGH,T2,ABDE,None,were windy,1,23
+214,229,tall,95,51,22,87,68,58,92,40,GEHFDABC,Tr,FGH,Conj3,play video games,1,77
+214,229,tall,95,51,22,87,68,58,92,40,GEHFDABC,Fa,ABD,Num2,have roommates,4,77
+214,229,tall,95,51,22,87,68,58,92,40,GEHFDABC,T1,DEGH,All,use public transport,2,71
+214,229,tall,95,51,22,87,68,58,92,40,GEHFDABC,T2,AE,Conj2,drink coffee,3,68
+158,29,expensive,23,85,36,28,69,100,79,57,CEDBGFHA,Tr,GH,Conj2,have the gas tank door on the left side,3,100
+158,29,expensive,23,85,36,28,69,100,79,57,CEDBGFHA,Fa,ABDE,Num3,are grey,2,84
+158,29,expensive,23,85,36,28,69,100,79,57,CEDBGFHA,T1,ABDGH,Num2,have tinted windows,4,78
+158,29,expensive,23,85,36,28,69,100,79,57,CEDBGFHA,T2,ABDE,None,have reflector headlights,1,67
+233,230,powerful,0,70,79,0,61,86,100,100,ECGADHFB,Tr,ABGH,Num2,have heated seats,1,100
+233,230,powerful,0,70,79,0,61,86,100,100,ECGADHFB,Fa,ABH,None,have leather interiors,3,0
+233,230,powerful,0,70,79,0,61,86,100,100,ECGADHFB,T1,DGH,Conj3,have a touchscreen,4,79
+233,230,powerful,0,70,79,0,61,86,100,100,ECGADHFB,T2,ABDE,Some,are black,2,82
+139,231,young,87,0,100,43,19,24,10,0,HDBFACEG,Tr,AEGH,Some,have houseplants,4,87
+139,231,young,87,0,100,43,19,24,10,0,HDBFACEG,Fa,ABDE,Num3,keep journals,3,0
+139,231,young,87,0,100,43,19,24,10,0,HDBFACEG,T1,ABEGH,Num2,use black pens,2,100
+139,231,young,87,0,100,43,19,24,10,0,HDBFACEG,T2,DEH,Conj3,are left-handed,1,41
+58,30,large,0,57,1,54,50,0,19,61,AFHEGDCB,Tr,GH,Conj2,are located on the top floor,1,65
+58,30,large,0,57,1,54,50,0,19,61,AFHEGDCB,Fa,ABH,Conj3,have double-glazed windows,2,0
+58,30,large,0,57,1,54,50,0,19,61,AFHEGDCB,T1,DEGH,All,come pre-furnished,3,33
+58,30,large,0,57,1,54,50,0,19,61,AFHEGDCB,T2,ABDH,Num2,have air conditioning,4,33
+237,232,hot,62,33,60,67,33,74,36,82,DFGCHEAB,Tr,AFGH,Num3,were workdays,1,62
+237,232,hot,62,33,60,67,33,74,36,82,DFGCHEAB,Fa,AH,Conj2,were windy,3,64
+237,232,hot,62,33,60,67,33,74,36,82,DFGCHEAB,T1,DEGH,All,had heavy traffic,2,67
+237,232,hot,62,33,60,67,33,74,36,82,DFGCHEAB,T2,DEH,Conj3,had high humidity,4,61
+15,31,late,57,64,1,50,74,0,0,100,BGHCFADE,Tr,GH,Conj2,bring packed lunches,3,100
+15,31,late,57,64,1,50,74,0,0,100,BGHCFADE,Fa,ABDE,Num3,drink tea,1,0
+15,31,late,57,64,1,50,74,0,0,100,BGHCFADE,T1,ABD,None,use post-it notes,2,100
+15,31,late,57,64,1,50,74,0,0,100,BGHCFADE,T2,ABDE,Some,work in HR,4,11
+276,233,expensive,84,82,79,82,76,90,84,85,GEDACFBH,Tr,ABGH,Num2,are grey,2,87
+276,233,expensive,84,82,79,82,76,90,84,85,GEDACFBH,Fa,ABH,Conj3,have the gas tank door on the left side,4,89
+276,233,expensive,84,82,79,82,76,90,84,85,GEDACFBH,T1,EH,Conj2,have reflector headlights,3,91
+276,233,expensive,84,82,79,82,76,90,84,85,GEDACFBH,T2,DEH,All,have tinted windows,1,84
+273,32,spicy,0,100,100,0,100,0,85,62,HFDCGEAB,Tr,AFGH,Num3,are served with noodles,1,100
+273,32,spicy,0,100,100,0,100,0,85,62,HFDCGEAB,Fa,ABH,Conj3,contain holy basil,4,0
+273,32,spicy,0,100,100,0,100,0,85,62,HFDCGEAB,T1,ABE,None,contain lemongrass,3,0
+273,32,spicy,0,100,100,0,100,0,85,62,HFDCGEAB,T2,ABDH,Num2,come with complimentary prawn crackers,2,85
+236,234,large,43,92,79,82,98,33,59,68,EHDFGCAB,Tr,FGH,All,are located on the top floor,4,98
+236,234,large,43,92,79,82,98,33,59,68,EHDFGCAB,Fa,AH,Conj2,have air conditioning,3,2
+236,234,large,43,92,79,82,98,33,59,68,EHDFGCAB,T1,ABEGH,Num2,have double-glazed windows,2,89
+236,234,large,43,92,79,82,98,33,59,68,EHDFGCAB,T2,ABDE,Some,come pre-furnished,1,61
+257,33,profitable,58,67,82,17,31,61,90,7,GCABFHED,Tr,GH,Conj2,are construction companies,1,100
+257,33,profitable,58,67,82,17,31,61,90,7,GCABFHED,Fa,ABH,None,have 24/7 customer support,3,10
+257,33,profitable,58,67,82,17,31,61,90,7,GCABFHED,T1,DGH,Conj3,are family businesses,4,95
+257,33,profitable,58,67,82,17,31,61,90,7,GCABFHED,T2,DEH,All,have employee uniforms,2,100
+282,235,late,0,0,1,100,0,64,100,0,DBAGEHFC,Tr,FGH,All,drink tea,4,100
+282,235,late,0,0,1,100,0,64,100,0,DBAGEHFC,Fa,AB,Some,use post-it notes,1,0
+282,235,late,0,0,1,100,0,64,100,0,DBAGEHFC,T1,DGH,Conj3,work in HR,3,0
+282,235,late,0,0,1,100,0,64,100,0,DBAGEHFC,T2,ADEH,Num3,bring packed lunches,2,0
+54,236,spicy,50,50,75,50,50,50,75,73,DCGBFEHA,Tr,ABC,None,contain holy basil,3,64
+54,236,spicy,50,50,75,50,50,50,75,73,DCGBFEHA,Fa,ABEH,All,come with complimentary prawn crackers,1,73
+54,236,spicy,50,50,75,50,50,50,75,73,DCGBFEHA,T1,ADFGH,Num3,contain lemongrass,4,71
+54,236,spicy,50,50,75,50,50,50,75,73,DCGBFEHA,T2,ABEH,Num2,are served with noodles,2,50
+105,237,profitable,63,36,69,59,63,82,36,68,FHAEBGCD,Tr,AFGH,Num3,have 24/7 customer support,3,15
+105,237,profitable,63,36,69,59,63,82,36,68,FHAEBGCD,Fa,ABH,None,are construction companies,4,87
+105,237,profitable,63,36,69,59,63,82,36,68,FHAEBGCD,T1,DH,Conj2,have employee uniforms,1,67
+105,237,profitable,63,36,69,59,63,82,36,68,FHAEBGCD,T2,ABDE,Some,are family businesses,2,74
+145,34,safe,13,23,60,0,38,100,33,88,FEGACDHB,Tr,ABC,None,have a public library,3,2
+145,34,safe,13,23,60,0,38,100,33,88,FEGACDHB,Fa,ABDE,Num3,have a hardware store,1,11
+145,34,safe,13,23,60,0,38,100,33,88,FEGACDHB,T1,EH,Conj2,border a river,4,81
+145,34,safe,13,23,60,0,38,100,33,88,FEGACDHB,T2,ABDE,Some,are situated North of the city center,2,38
+56,35,complete,53,92,70,100,100,70,14,3,EGAHFBDC,Tr,GH,Conj2,affect retired clients,2,100
+56,35,complete,53,92,70,100,100,70,14,3,EGAHFBDC,Fa,ABD,Num2,require an official statement from the bank,4,28
+56,35,complete,53,92,70,100,100,70,14,3,EGAHFBDC,T1,DEGH,Some,are about credit card fraud,1,65
+56,35,complete,53,92,70,100,100,70,14,3,EGAHFBDC,T2,ADEH,Num3,involve a repeat offender,3,57
+266,238,safe,77,2,32,64,94,52,37,9,CHBFADEG,Tr,ADGH,Some,have a public library,1,73
+266,238,safe,77,2,32,64,94,52,37,9,CHBFADEG,Fa,ABDE,Num3,have a hardware store,2,17
+266,238,safe,77,2,32,64,94,52,37,9,CHBFADEG,T1,DEGH,All,are situated North of the city center,4,63
+266,238,safe,77,2,32,64,94,52,37,9,CHBFADEG,T2,DEH,Conj3,border a river,3,85
+164,239,complete,50,69,71,87,50,61,50,70,FDBCHGAE,Tr,GH,Conj2,are about credit card fraud,3,67
+164,239,complete,50,69,71,87,50,61,50,70,FDBCHGAE,Fa,ABH,None,affect retired clients,1,68
+164,239,complete,50,69,71,87,50,61,50,70,FDBCHGAE,T1,DGH,Conj3,involve a repeat offender,2,50
+164,239,complete,50,69,71,87,50,61,50,70,FDBCHGAE,T2,ADEH,Num3,require an official statement from the bank,4,77
+103,36,full,37,80,60,14,0,100,58,100,EAHBFDGC,Tr,FGH,Conj3,used a Boeing model plane,4,25
+103,36,full,37,80,60,14,0,100,58,100,EAHBFDGC,Fa,ABDH,All,included a layover,3,7
+103,36,full,37,80,60,14,0,100,58,100,EAHBFDGC,T1,DH,Conj2,left in the morning,2,9
+103,36,full,37,80,60,14,0,100,58,100,EAHBFDGC,T2,ABDE,None,were international,1,97
+46,240,full,37,70,100,0,100,87,83,100,GFHACDEB,Tr,GH,Conj2,were international,2,100
+46,240,full,37,70,100,0,100,87,83,100,GFHACDEB,Fa,ABH,Conj3,left in the morning,1,0
+46,240,full,37,70,100,0,100,87,83,100,GFHACDEB,T1,DEGH,All,used a Boeing model plane,4,50
+46,240,full,37,70,100,0,100,87,83,100,GFHACDEB,T2,ABDH,Num2,included a layover,3,50
+194,37,tall,35,17,42,76,41,22,50,63,EBFGDCAH,Tr,AFGH,Num3,drink coffee,2,30
+194,37,tall,35,17,42,76,41,22,50,63,EBFGDCAH,Fa,ABH,None,have roommates,4,41
+194,37,tall,35,17,42,76,41,22,50,63,EBFGDCAH,T1,EH,Conj2,play video games,3,65
+194,37,tall,35,17,42,76,41,22,50,63,EBFGDCAH,T2,ABDE,Some,use public transport,1,62
+2,241,tall,100,0,1,100,100,0,100,0,AECFBGDH,Tr,AEGH,Some,drink coffee,3,84
+2,241,tall,100,0,1,100,100,0,100,0,AECFBGDH,Fa,ABD,Num2,have roommates,2,0
+2,241,tall,100,0,1,100,100,0,100,0,AECFBGDH,T1,EGH,Conj3,use public transport,1,100
+2,241,tall,100,0,1,100,100,0,100,0,AECFBGDH,T2,ABDE,None,play video games,4,20
+159,38,powerful,40,79,100,13,18,100,100,100,EBFADHGC,Tr,AEGH,Some,have leather interiors,1,100
+159,38,powerful,40,79,100,13,18,100,100,100,EBFADHGC,Fa,ABDE,Num3,have a touchscreen,3,0
+159,38,powerful,40,79,100,13,18,100,100,100,EBFADHGC,T1,ABDGH,Num2,have heated seats,4,100
+159,38,powerful,40,79,100,13,18,100,100,100,EBFADHGC,T2,AE,Conj2,are black,2,0
+119,242,powerful,40,84,13,54,90,65,76,22,AHBDGFEC,Tr,ABC,None,are black,1,46
+119,242,powerful,40,84,13,54,90,65,76,22,AHBDGFEC,Fa,ABH,Conj3,have leather interiors,2,49
+119,242,powerful,40,84,13,54,90,65,76,22,AHBDGFEC,T1,EH,Conj2,have heated seats,3,77
+119,242,powerful,40,84,13,54,90,65,76,22,AHBDGFEC,T2,DEH,All,have a touchscreen,4,65
+142,39,young,38,0,31,86,13,58,100,54,DBCGAHEF,Tr,ABGH,Num2,have houseplants,4,100
+142,39,young,38,0,31,86,13,58,100,54,DBCGAHEF,Fa,ABDH,All,use black pens,3,0
+142,39,young,38,0,31,86,13,58,100,54,DBCGAHEF,T1,EGH,Conj3,are left-handed,2,80
+142,39,young,38,0,31,86,13,58,100,54,DBCGAHEF,T2,ADEH,Num3,keep journals,1,89
+93,243,young,54,67,60,64,76,65,64,65,CFHEAGDB,Tr,AFGH,Num3,have houseplants,1,77
+93,243,young,54,67,60,64,76,65,64,65,CFHEAGDB,Fa,AB,Some,keep journals,3,80
+93,243,young,54,67,60,64,76,65,64,65,CFHEAGDB,T1,DH,Conj2,use black pens,4,36
+93,243,young,54,67,60,64,76,65,64,65,CFHEAGDB,T2,DEH,Conj3,are left-handed,2,94
+220,40,hot,0,0,1,0,100,0,0,0,EHGFCADB,Tr,ADGH,Some,were workdays,2,80
+220,40,hot,0,0,1,0,100,0,0,0,EHGFCADB,Fa,AH,Conj2,had heavy traffic,3,34
+220,40,hot,0,0,1,0,100,0,0,0,EHGFCADB,T1,ABDGH,Num2,were windy,1,100
+220,40,hot,0,0,1,0,100,0,0,0,EHGFCADB,T2,DEH,Conj3,had high humidity,4,92
+68,244,hot,35,43,78,8,23,36,100,21,GCBAFHDE,Tr,FGH,Conj3,had high humidity,4,69
+68,244,hot,35,43,78,8,23,36,100,21,GCBAFHDE,Fa,ABD,Num2,were windy,1,74
+68,244,hot,35,43,78,8,23,36,100,21,GCBAFHDE,T1,DEGH,All,were workdays,2,76
+68,244,hot,35,43,78,8,23,36,100,21,GCBAFHDE,T2,ABDE,Some,had heavy traffic,3,71
+59,41,expensive,66,80,78,85,62,34,60,66,CEDHAFBG,Tr,FGH,Conj3,have tinted windows,2,63
+59,41,expensive,66,80,78,85,62,34,60,66,CEDHAFBG,Fa,AB,Some,are grey,1,71
+59,41,expensive,66,80,78,85,62,34,60,66,CEDHAFBG,T1,EH,Conj2,have reflector headlights,3,72
+59,41,expensive,66,80,78,85,62,34,60,66,CEDHAFBG,T2,ABDE,None,have the gas tank door on the left side,4,73
+274,245,expensive,69,63,10,20,79,12,37,94,AGHCEDBF,Tr,ABC,None,have the gas tank door on the left side,3,35
+274,245,expensive,69,63,10,20,79,12,37,94,AGHCEDBF,Fa,ABDE,Num3,have tinted windows,2,20
+274,245,expensive,69,63,10,20,79,12,37,94,AGHCEDBF,T1,DGH,Conj3,have reflector headlights,1,62
+274,245,expensive,69,63,10,20,79,12,37,94,AGHCEDBF,T2,ABEH,Num2,are grey,4,71
+275,42,large,0,62,12,50,42,0,0,68,DEHFGABC,Tr,FGH,Conj3,come pre-furnished,2,61
+275,42,large,0,62,12,50,42,0,0,68,DEHFGABC,Fa,ABEH,All,have air conditioning,3,0
+275,42,large,0,62,12,50,42,0,0,68,DEHFGABC,T1,ADFGH,Num3,have double-glazed windows,1,76
+275,42,large,0,62,12,50,42,0,0,68,DEHFGABC,T2,ABDE,Some,are located on the top floor,4,33
+267,246,large,61,60,68,60,61,60,65,57,EACGHBFD,Tr,AFGH,Num3,come pre-furnished,4,63
+267,246,large,61,60,68,60,61,60,65,57,EACGHBFD,Fa,ABH,None,are located on the top floor,2,63
+267,246,large,61,60,68,60,61,60,65,57,EACGHBFD,T1,ABDGH,Num2,have air conditioning,3,38
+267,246,large,61,60,68,60,61,60,65,57,EACGHBFD,T2,ABDE,Some,have double-glazed windows,1,65
+265,43,late,0,100,100,0,2,2,100,100,HBEDFGCA,Tr,FGH,All,drink tea,3,100
+265,43,late,0,100,100,0,2,2,100,100,HBEDFGCA,Fa,ABD,Num2,bring packed lunches,2,0
+265,43,late,0,100,100,0,2,2,100,100,HBEDFGCA,T1,DGH,Conj3,work in HR,1,27
+265,43,late,0,100,100,0,2,2,100,100,HBEDFGCA,T2,AD,Conj2,use post-it notes,4,0
+278,247,late,100,100,94,0,100,0,0,0,HEABGDCF,Tr,AEGH,Some,bring packed lunches,4,79
+278,247,late,100,100,94,0,100,0,0,0,HEABGDCF,Fa,ABEH,All,work in HR,2,83
+278,247,late,100,100,94,0,100,0,0,0,HEABGDCF,T1,EH,Conj2,use post-it notes,3,100
+278,247,late,100,100,94,0,100,0,0,0,HEABGDCF,T2,DEH,Conj3,drink tea,1,88
+150,44,spicy,79,7,15,0,79,88,40,85,FABHGECD,Tr,FGH,Conj3,contain lemongrass,3,50
+150,44,spicy,79,7,15,0,79,88,40,85,FABHGECD,Fa,AH,Conj2,contain holy basil,1,0
+150,44,spicy,79,7,15,0,79,88,40,85,FABHGECD,T1,ABD,None,are served with noodles,2,61
+150,44,spicy,79,7,15,0,79,88,40,85,FABHGECD,T2,ADEH,Num3,come with complimentary prawn crackers,4,39
+62,248,spicy,74,88,37,70,40,35,32,72,EGCFDAHB,Tr,FGH,All,contain holy basil,4,60
+62,248,spicy,74,88,37,70,40,35,32,72,EGCFDAHB,Fa,ABH,Conj3,contain lemongrass,1,23
+62,248,spicy,74,88,37,70,40,35,32,72,EGCFDAHB,T1,ABDGH,Num2,are served with noodles,3,24
+62,248,spicy,74,88,37,70,40,35,32,72,EGCFDAHB,T2,ADEH,Num3,come with complimentary prawn crackers,2,71
+291,249,profitable,0,51,100,60,1,0,100,100,HBGEDFAC,Tr,FGH,All,have 24/7 customer support,4,98
+291,249,profitable,0,51,100,60,1,0,100,100,HBGEDFAC,Fa,AB,Some,have employee uniforms,3,0
+291,249,profitable,0,51,100,60,1,0,100,100,HBGEDFAC,T1,EH,Conj2,are construction companies,1,97
+291,249,profitable,0,51,100,60,1,0,100,100,HBGEDFAC,T2,ABDE,None,are family businesses,2,0
+64,250,safe,27,68,75,35,95,32,11,2,BAHDCGEF,Tr,ADGH,Some,have a hardware store,1,65
+64,250,safe,27,68,75,35,95,32,11,2,BAHDCGEF,Fa,ABH,None,are situated North of the city center,4,45
+64,250,safe,27,68,75,35,95,32,11,2,BAHDCGEF,T1,DEGH,All,border a river,3,55
+64,250,safe,27,68,75,35,95,32,11,2,BAHDCGEF,T2,ADEH,Num3,have a public library,2,51
+27,45,profitable,17,57,98,70,82,43,64,6,HGAFDECB,Tr,AFGH,Num3,have 24/7 customer support,3,93
+27,45,profitable,17,57,98,70,82,43,64,6,HGAFDECB,Fa,ABE,Num2,are family businesses,4,1
+27,45,profitable,17,57,98,70,82,43,64,6,HGAFDECB,T1,DH,Conj2,have employee uniforms,1,99
+27,45,profitable,17,57,98,70,82,43,64,6,HGAFDECB,T2,ABDE,Some,are construction companies,2,85
+146,251,complete,70,100,85,7,100,21,46,96,EHFAGCBD,Tr,AEGH,Some,require an official statement from the bank,2,4
+146,251,complete,70,100,85,7,100,21,46,96,EHFAGCBD,Fa,ABH,None,involve a repeat offender,3,9
+146,251,complete,70,100,85,7,100,21,46,96,EHFAGCBD,T1,AEFGH,Num3,are about credit card fraud,4,1
+146,251,complete,70,100,85,7,100,21,46,96,EHFAGCBD,T2,DEH,All,affect retired clients,1,20
+189,46,safe,63,42,18,100,0,93,82,72,BAEHCFGD,Tr,ABC,None,are situated North of the city center,2,100
+189,46,safe,63,42,18,100,0,93,82,72,BAEHCFGD,Fa,ABH,Conj3,have a hardware store,4,12
+189,46,safe,63,42,18,100,0,93,82,72,BAEHCFGD,T1,DEGH,Some,have a public library,1,100
+189,46,safe,63,42,18,100,0,93,82,72,BAEHCFGD,T2,DEH,All,border a river,3,83
+101,252,full,24,33,96,27,26,18,89,28,HECFDGBA,Tr,FGH,All,used a Boeing model plane,4,58
+101,252,full,24,33,96,27,26,18,89,28,HECFDGBA,Fa,AB,Some,were international,2,17
+101,252,full,24,33,96,27,26,18,89,28,HECFDGBA,T1,ABD,None,included a layover,1,89
+101,252,full,24,33,96,27,26,18,89,28,HECFDGBA,T2,ABDH,Num2,left in the morning,3,24
+209,47,complete,100,56,100,85,93,71,15,0,HFAECBDG,Tr,FGH,Conj3,affect retired clients,1,89
+209,47,complete,100,56,100,85,93,71,15,0,HFAECBDG,Fa,AB,Some,involve a repeat offender,3,10
+209,47,complete,100,56,100,85,93,71,15,0,HFAECBDG,T1,ABE,None,require an official statement from the bank,4,68
+209,47,complete,100,56,100,85,93,71,15,0,HFAECBDG,T2,ABDH,Num2,are about credit card fraud,2,27
+249,253,tall,50,100,76,0,0,0,0,100,FBGCHADE,Tr,ADGH,Some,drink coffee,4,100
+249,253,tall,50,100,76,0,0,0,0,100,FBGCHADE,Fa,ABE,Num2,play video games,2,0
+249,253,tall,50,100,76,0,0,0,0,100,FBGCHADE,T1,DEGH,All,use public transport,3,0
+249,253,tall,50,100,76,0,0,0,0,100,FBGCHADE,T2,AE,Conj2,have roommates,1,0
+121,48,full,0,34,83,39,0,100,100,64,FAEDCGHB,Tr,ABC,None,used a Boeing model plane,1,100
+121,48,full,0,34,83,39,0,100,100,64,FAEDCGHB,Fa,AB,Some,included a layover,2,0
+121,48,full,0,34,83,39,0,100,100,64,FAEDCGHB,T1,AEFGH,Num3,were international,4,38
+121,48,full,0,34,83,39,0,100,100,64,FAEDCGHB,T2,ABEH,Num2,left in the morning,3,20
+7,254,powerful,37,72,84,29,58,50,95,40,GECAFHDB,Tr,ABC,None,are black,1,61
+7,254,powerful,37,72,84,29,58,50,95,40,GECAFHDB,Fa,ABE,Num2,have a touchscreen,4,18
+7,254,powerful,37,72,84,29,58,50,95,40,GECAFHDB,T1,DEGH,Some,have heated seats,2,100
+7,254,powerful,37,72,84,29,58,50,95,40,GECAFHDB,T2,DEH,All,have leather interiors,3,37
+118,255,young,65,62,69,60,64,62,68,62,GHBCFDAE,Tr,FGH,All,keep journals,3,68
+118,255,young,65,62,69,60,64,62,68,62,GHBCFDAE,Fa,ABH,Conj3,use black pens,2,71
+118,255,young,65,62,69,60,64,62,68,62,GHBCFDAE,T1,ABD,None,are left-handed,4,50
+118,255,young,65,62,69,60,64,62,68,62,GHBCFDAE,T2,ADEH,Num3,have houseplants,1,71
+4,49,tall,100,86,63,79,62,77,49,47,DCAFGBEH,Tr,ABGH,Num2,play video games,3,80
+4,49,tall,100,86,63,79,62,77,49,47,DCAFGBEH,Fa,ABDE,Num3,drink coffee,2,65
+4,49,tall,100,86,63,79,62,77,49,47,DCAFGBEH,T1,EH,Conj2,have roommates,1,100
+4,49,tall,100,86,63,79,62,77,49,47,DCAFGBEH,T2,DEH,Conj3,use public transport,4,90
+96,256,hot,70,71,90,72,60,63,100,83,GAFCEHDB,Tr,ADGH,Some,had high humidity,2,50
+96,256,hot,70,71,90,72,60,63,100,83,GAFCEHDB,Fa,AH,Conj2,were workdays,3,81
+96,256,hot,70,71,90,72,60,63,100,83,GAFCEHDB,T1,ABEGH,Num2,were windy,4,56
+96,256,hot,70,71,90,72,60,63,100,83,GAFCEHDB,T2,ADEH,Num3,had heavy traffic,1,61
+247,50,powerful,10,90,59,58,100,100,100,0,DEACFHGB,Tr,ABC,None,are black,2,100
+247,50,powerful,10,90,59,58,100,100,100,0,DEACFHGB,Fa,AB,Some,have a touchscreen,4,11
+247,50,powerful,10,90,59,58,100,100,100,0,DEACFHGB,T1,AEFGH,Num3,have leather interiors,3,100
+247,50,powerful,10,90,59,58,100,100,100,0,DEACFHGB,T2,AD,Conj2,have heated seats,1,71
+252,257,expensive,74,75,100,9,19,57,82,30,HBCAFGDE,Tr,ABGH,Num2,have reflector headlights,2,100
+252,257,expensive,74,75,100,9,19,57,82,30,HBCAFGDE,Fa,AH,Conj2,have the gas tank door on the left side,1,63
+252,257,expensive,74,75,100,9,19,57,82,30,HBCAFGDE,T1,DGH,Conj3,have tinted windows,3,100
+252,257,expensive,74,75,100,9,19,57,82,30,HBCAFGDE,T2,ABDE,Some,are grey,4,61
+57,51,young,53,10,38,29,23,82,90,49,DBECAHGF,Tr,GH,Conj2,are left-handed,1,94
+57,51,young,53,10,38,29,23,82,90,49,DBECAHGF,Fa,ABH,None,have houseplants,3,6
+57,51,young,53,10,38,29,23,82,90,49,DBECAHGF,T1,DEGH,All,use black pens,2,40
+57,51,young,53,10,38,29,23,82,90,49,DBECAHGF,T2,ABEH,Num2,keep journals,4,35
+181,258,large,73,34,66,24,73,61,70,73,DACEHFGB,Tr,AFGH,Num3,come pre-furnished,3,62
+181,258,large,73,34,66,24,73,61,70,73,DACEHFGB,Fa,ABH,Conj3,are located on the top floor,2,80
+181,258,large,73,34,66,24,73,61,70,73,DACEHFGB,T1,DH,Conj2,have air conditioning,1,71
+181,258,large,73,34,66,24,73,61,70,73,DACEHFGB,T2,DEH,All,have double-glazed windows,4,71
+89,52,hot,59,87,84,76,90,98,67,79,EGDCFBHA,Tr,ABGH,Num2,had high humidity,4,66
+89,52,hot,59,87,84,76,90,98,67,79,EGDCFBHA,Fa,ABDE,Num3,were windy,1,46
+89,52,hot,59,87,84,76,90,98,67,79,EGDCFBHA,T1,DEGH,All,were workdays,3,73
+89,52,hot,59,87,84,76,90,98,67,79,EGDCFBHA,T2,DEH,Conj3,had heavy traffic,2,79
+277,259,late,100,0,1,100,0,17,100,100,CAGHBEDF,Tr,FGH,Conj3,work in HR,3,100
+277,259,late,100,0,1,100,0,17,100,100,CAGHBEDF,Fa,ABEH,All,bring packed lunches,4,0
+277,259,late,100,0,1,100,0,17,100,100,CAGHBEDF,T1,AEFGH,Num3,drink tea,1,50
+277,259,late,100,0,1,100,0,17,100,100,CAGHBEDF,T2,ABDE,Some,use post-it notes,2,60
+231,53,expensive,0,100,1,100,0,100,100,100,BCFHDEGA,Tr,ADGH,Some,have the gas tank door on the left side,2,0
+231,53,expensive,0,100,1,100,0,100,100,100,BCFHDEGA,Fa,ABD,Num2,have reflector headlights,3,0
+231,53,expensive,0,100,1,100,0,100,100,100,BCFHDEGA,T1,AEFGH,Num3,are grey,1,0
+231,53,expensive,0,100,1,100,0,100,100,100,BCFHDEGA,T2,ABDE,None,have tinted windows,4,0
+239,260,spicy,25,100,19,0,100,100,32,100,GCDHAEBF,Tr,GH,Conj2,come with complimentary prawn crackers,2,100
+239,260,spicy,25,100,19,0,100,100,32,100,GCDHAEBF,Fa,ABH,Conj3,contain lemongrass,4,0
+239,260,spicy,25,100,19,0,100,100,32,100,GCDHAEBF,T1,ABEGH,Num2,are served with noodles,3,100
+239,260,spicy,25,100,19,0,100,100,32,100,GCDHAEBF,T2,DEH,All,contain holy basil,1,100
+88,54,large,97,73,98,50,71,1,29,3,HEBDFCAG,Tr,ABC,None,have air conditioning,1,97
+88,54,large,97,73,98,50,71,1,29,3,HEBDFCAG,Fa,ABDE,Num3,have double-glazed windows,2,0
+88,54,large,97,73,98,50,71,1,29,3,HEBDFCAG,T1,DGH,Conj3,come pre-furnished,3,22
+88,54,large,97,73,98,50,71,1,29,3,HEBDFCAG,T2,DEH,All,are located on the top floor,4,24
+179,261,profitable,100,76,63,29,15,0,85,54,EBDCFGAH,Tr,ADGH,Some,have 24/7 customer support,3,100
+179,261,profitable,100,76,63,29,15,0,85,54,EBDCFGAH,Fa,ABDE,Num3,are construction companies,4,5
+179,261,profitable,100,76,63,29,15,0,85,54,EBDCFGAH,T1,EH,Conj2,are family businesses,2,98
+179,261,profitable,100,76,63,29,15,0,85,54,EBDCFGAH,T2,ABDH,Num2,have employee uniforms,1,78
+184,55,late,73,0,100,100,0,0,0,77,HAFGCDBE,Tr,GH,Conj2,drink tea,1,100
+184,55,late,73,0,100,100,0,0,0,77,HAFGCDBE,Fa,ABDE,Num3,use post-it notes,2,0
+184,55,late,73,0,100,100,0,0,0,77,HAFGCDBE,T1,ABEGH,Num2,work in HR,3,100
+184,55,late,73,0,100,100,0,0,0,77,HAFGCDBE,T2,DEH,All,bring packed lunches,4,6
+61,262,safe,83,72,69,67,87,79,80,71,ADEGFHCB,Tr,GH,Conj2,have a hardware store,2,84
+61,262,safe,83,72,69,67,87,79,80,71,ADEGFHCB,Fa,ABDE,Num3,have a public library,4,91
+61,262,safe,83,72,69,67,87,79,80,71,ADEGFHCB,T1,ABE,None,are situated North of the city center,3,89
+61,262,safe,83,72,69,67,87,79,80,71,ADEGFHCB,T2,ABEH,Num2,border a river,1,86
+6,56,spicy,16,99,88,76,88,70,23,13,GFCEHBDA,Tr,ABC,None,are served with noodles,3,87
+6,56,spicy,16,99,88,76,88,70,23,13,GFCEHBDA,Fa,ABH,Conj3,come with complimentary prawn crackers,1,43
+6,56,spicy,16,99,88,76,88,70,23,13,GFCEHBDA,T1,DEGH,All,contain holy basil,2,86
+6,56,spicy,16,99,88,76,88,70,23,13,GFCEHBDA,T2,ABDH,Num2,contain lemongrass,4,93
+86,263,complete,100,4,4,100,0,0,50,3,CFEHABDG,Tr,ABGH,Num2,affect retired clients,4,100
+86,263,complete,100,4,4,100,0,0,50,3,CFEHABDG,Fa,ABH,Conj3,are about credit card fraud,3,0
+86,263,complete,100,4,4,100,0,0,50,3,CFEHABDG,T1,ADFGH,Num3,involve a repeat offender,1,0
+86,263,complete,100,4,4,100,0,0,50,3,CFEHABDG,T2,AE,Conj2,require an official statement from the bank,2,0
+262,264,full,18,25,7,27,90,29,40,87,AHGFDECB,Tr,AEGH,Some,were international,1,89
+262,264,full,18,25,7,27,90,29,40,87,AHGFDECB,Fa,AH,Conj2,left in the morning,2,13
+262,264,full,18,25,7,27,90,29,40,87,AHGFDECB,T1,EGH,Conj3,used a Boeing model plane,3,11
+262,264,full,18,25,7,27,90,29,40,87,AHGFDECB,T2,ADEH,Num3,included a layover,4,20
+208,57,profitable,60,67,7,61,100,83,23,43,AHCEFBGD,Tr,ABGH,Num2,have employee uniforms,3,70
+208,57,profitable,60,67,7,61,100,83,23,43,AHCEFBGD,Fa,ABH,Conj3,are family businesses,2,0
+208,57,profitable,60,67,7,61,100,83,23,43,AHCEFBGD,T1,ABD,None,are construction companies,1,35
+208,57,profitable,60,67,7,61,100,83,23,43,AHCEFBGD,T2,ADEH,Num3,have 24/7 customer support,4,93
+280,265,tall,100,51,100,61,0,37,100,100,FAEDCHBG,Tr,AFGH,Num3,play video games,2,100
+280,265,tall,100,51,100,61,0,37,100,100,FAEDCHBG,Fa,ABH,None,use public transport,3,0
+280,265,tall,100,51,100,61,0,37,100,100,FAEDCHBG,T1,EGH,Conj3,have roommates,4,100
+280,265,tall,100,51,100,61,0,37,100,100,FAEDCHBG,T2,ABDH,Num2,drink coffee,1,70
+284,58,safe,66,90,81,76,63,85,60,63,CDBGHFEA,Tr,FGH,All,have a public library,1,56
+284,58,safe,66,90,81,76,63,85,60,63,CDBGHFEA,Fa,ABH,None,border a river,4,60
+284,58,safe,66,90,81,76,63,85,60,63,CDBGHFEA,T1,AEFGH,Num3,are situated North of the city center,3,39
+284,58,safe,66,90,81,76,63,85,60,63,CDBGHFEA,T2,ABDE,Some,have a hardware store,2,62
+243,266,powerful,67,83,50,38,50,83,10,88,DEAFBGHC,Tr,ABGH,Num2,have heated seats,3,70
+243,266,powerful,67,83,50,38,50,83,10,88,DEAFBGHC,Fa,ABH,Conj3,are black,1,76
+243,266,powerful,67,83,50,38,50,83,10,88,DEAFBGHC,T1,EH,Conj2,have leather interiors,4,82
+243,266,powerful,67,83,50,38,50,83,10,88,DEAFBGHC,T2,DEH,All,have a touchscreen,2,65
+10,267,young,16,50,14,62,39,100,83,2,BDAFEGHC,Tr,AFGH,Num3,have houseplants,4,45
+10,267,young,16,50,14,62,39,100,83,2,BDAFEGHC,Fa,ABEH,All,are left-handed,1,15
+10,267,young,16,50,14,62,39,100,83,2,BDAFEGHC,T1,DGH,Conj3,use black pens,2,72
+10,267,young,16,50,14,62,39,100,83,2,BDAFEGHC,T2,ABDE,None,keep journals,3,42
+109,59,complete,100,75,1,76,26,100,95,45,ABCDEFHG,Tr,ADGH,Some,involve a repeat offender,2,51
+109,59,complete,100,75,1,76,26,100,95,45,ABCDEFHG,Fa,ABH,Conj3,affect retired clients,4,15
+109,59,complete,100,75,1,76,26,100,95,45,ABCDEFHG,T1,AEFGH,Num3,are about credit card fraud,3,34
+109,59,complete,100,75,1,76,26,100,95,45,ABCDEFHG,T2,ABDH,Num2,require an official statement from the bank,1,30
+191,268,hot,70,82,98,77,71,87,75,92,HAGDECFB,Tr,GH,Conj2,had heavy traffic,4,100
+191,268,hot,70,82,98,77,71,87,75,92,HAGDECFB,Fa,AB,Some,were windy,1,61
+191,268,hot,70,82,98,77,71,87,75,92,HAGDECFB,T1,ABEGH,Num2,were workdays,2,96
+191,268,hot,70,82,98,77,71,87,75,92,HAGDECFB,T2,DEH,Conj3,had high humidity,3,92
+131,60,full,100,6,5,4,1,4,2,100,FBGADCEH,Tr,ABGH,Num2,were international,3,100
+131,60,full,100,6,5,4,1,4,2,100,FBGADCEH,Fa,AH,Conj2,used a Boeing model plane,1,2
+131,60,full,100,6,5,4,1,4,2,100,FBGADCEH,T1,DEGH,All,included a layover,4,0
+131,60,full,100,6,5,4,1,4,2,100,FBGADCEH,T2,ABDE,None,left in the morning,2,0
+183,269,expensive,60,61,66,64,70,64,62,61,FDCEGHAB,Tr,FGH,Conj3,have reflector headlights,3,65
+183,269,expensive,60,61,66,64,70,64,62,61,FDCEGHAB,Fa,AB,Some,have the gas tank door on the left side,4,33
+183,269,expensive,60,61,66,64,70,64,62,61,FDCEGHAB,T1,AEFGH,Num3,have tinted windows,2,61
+183,269,expensive,60,61,66,64,70,64,62,61,FDCEGHAB,T2,AE,Conj2,are grey,1,64
+269,61,tall,84,37,71,96,73,67,62,100,FDHBEACG,Tr,GH,Conj2,have roommates,4,82
+269,61,tall,84,37,71,96,73,67,62,100,FDHBEACG,Fa,ABH,Conj3,play video games,3,25
+269,61,tall,84,37,71,96,73,67,62,100,FDHBEACG,T1,ABE,None,use public transport,1,67
+269,61,tall,84,37,71,96,73,67,62,100,FDHBEACG,T2,ABEH,Num2,drink coffee,2,84
+133,270,large,97,2,2,2,98,96,98,98,BHGACDEF,Tr,AEGH,Some,are located on the top floor,1,97
+133,270,large,97,2,2,2,98,96,98,98,BHGACDEF,Fa,ABEH,All,come pre-furnished,2,1
+133,270,large,97,2,2,2,98,96,98,98,BHGACDEF,T1,ABE,None,have air conditioning,4,0
+133,270,large,97,2,2,2,98,96,98,98,BHGACDEF,T2,AE,Conj2,have double-glazed windows,3,2
+261,62,powerful,100,12,100,0,47,0,74,100,HDFACEBG,Tr,AEGH,Some,are black,1,100
+261,62,powerful,100,12,100,0,47,0,74,100,HDFACEBG,Fa,ABH,None,have a touchscreen,2,33
+261,62,powerful,100,12,100,0,47,0,74,100,HDFACEBG,T1,DGH,Conj3,have heated seats,3,91
+261,62,powerful,100,12,100,0,47,0,74,100,HDFACEBG,T2,AE,Conj2,have leather interiors,4,17
+82,271,late,78,47,90,59,89,29,80,85,HDCBGEAF,Tr,ABGH,Num2,use post-it notes,3,100
+82,271,late,78,47,90,59,89,29,80,85,HDCBGEAF,Fa,ABEH,All,bring packed lunches,2,80
+82,271,late,78,47,90,59,89,29,80,85,HDCBGEAF,T1,DGH,Conj3,drink tea,4,32
+82,271,late,78,47,90,59,89,29,80,85,HDCBGEAF,T2,AD,Conj2,work in HR,1,66
+97,63,young,17,94,36,74,44,78,57,100,BCHEGDFA,Tr,GH,Conj2,keep journals,1,100
+97,63,young,17,94,36,74,44,78,57,100,BCHEGDFA,Fa,AB,Some,are left-handed,4,0
+97,63,young,17,94,36,74,44,78,57,100,BCHEGDFA,T1,ABE,None,have houseplants,3,17
+97,63,young,17,94,36,74,44,78,57,100,BCHEGDFA,T2,ABEH,Num2,use black pens,2,80
+70,272,spicy,72,53,1,83,0,30,0,100,ABHGECDF,Tr,AFGH,Num3,contain lemongrass,1,100
+70,272,spicy,72,53,1,83,0,30,0,100,ABHGECDF,Fa,ABEH,All,come with complimentary prawn crackers,3,0
+70,272,spicy,72,53,1,83,0,30,0,100,ABHGECDF,T1,ABEGH,Num2,are served with noodles,2,73
+70,272,spicy,72,53,1,83,0,30,0,100,ABHGECDF,T2,DEH,Conj3,contain holy basil,4,66
+294,273,profitable,18,73,72,70,75,34,71,35,EABFGDCH,Tr,FGH,Conj3,have 24/7 customer support,1,76
+294,273,profitable,18,73,72,70,75,34,71,35,EABFGDCH,Fa,ABEH,All,are family businesses,2,64
+294,273,profitable,18,73,72,70,75,34,71,35,EABFGDCH,T1,DH,Conj2,have employee uniforms,3,25
+294,273,profitable,18,73,72,70,75,34,71,35,EABFGDCH,T2,ABDE,Some,are construction companies,4,50
+144,64,hot,50,100,69,82,61,13,0,30,FECGHABD,Tr,ADGH,Some,had high humidity,1,50
+144,64,hot,50,100,69,82,61,13,0,30,FECGHABD,Fa,ABDE,Num3,were workdays,4,50
+144,64,hot,50,100,69,82,61,13,0,30,FECGHABD,T1,EGH,Conj3,were windy,2,83
+144,64,hot,50,100,69,82,61,13,0,30,FECGHABD,T2,AD,Conj2,had heavy traffic,3,40
+92,65,expensive,89,83,75,46,45,100,0,88,DBFCEAHG,Tr,AFGH,Num3,have tinted windows,2,2
+92,65,expensive,89,83,75,46,45,100,0,88,DBFCEAHG,Fa,ABD,Num2,have the gas tank door on the left side,4,20
+92,65,expensive,89,83,75,46,45,100,0,88,DBFCEAHG,T1,DEGH,All,have reflector headlights,1,66
+92,65,expensive,89,83,75,46,45,100,0,88,DBFCEAHG,T2,DEH,Conj3,are grey,3,65
+50,274,safe,100,100,100,0,100,0,100,0,HGACFEBD,Tr,AFGH,Num3,have a public library,2,39
+50,274,safe,100,100,100,0,100,0,100,0,HGACFEBD,Fa,ABH,None,have a hardware store,1,17
+50,274,safe,100,100,100,0,100,0,100,0,HGACFEBD,T1,DEGH,All,border a river,3,100
+50,274,safe,100,100,100,0,100,0,100,0,HGACFEBD,T2,AD,Conj2,are situated North of the city center,4,24
+161,66,large,55,54,3,78,47,6,21,100,AEHGDCBF,Tr,GH,Conj2,have double-glazed windows,2,93
+161,66,large,55,54,3,78,47,6,21,100,AEHGDCBF,Fa,ABH,Conj3,have air conditioning,3,3
+161,66,large,55,54,3,78,47,6,21,100,AEHGDCBF,T1,AEFGH,Num3,are located on the top floor,1,88
+161,66,large,55,54,3,78,47,6,21,100,AEHGDCBF,T2,ABDE,None,come pre-furnished,4,87
+169,275,complete,0,100,100,90,0,75,77,34,GBCFHDEA,Tr,FGH,All,are about credit card fraud,4,88
+169,275,complete,0,100,100,90,0,75,77,34,GBCFHDEA,Fa,ABH,None,involve a repeat offender,2,0
+169,275,complete,0,100,100,90,0,75,77,34,GBCFHDEA,T1,ADFGH,Num3,require an official statement from the bank,3,6
+169,275,complete,0,100,100,90,0,75,77,34,GBCFHDEA,T2,DEH,Conj3,affect retired clients,1,73
+206,276,full,67,65,69,14,80,70,23,28,GCBEHADF,Tr,ABC,None,were international,1,50
+206,276,full,67,65,69,14,80,70,23,28,GCBEHADF,Fa,ABDE,Num3,left in the morning,3,89
+206,276,full,67,65,69,14,80,70,23,28,GCBEHADF,T1,DEGH,Some,included a layover,2,86
+206,276,full,67,65,69,14,80,70,23,28,GCBEHADF,T2,ABDH,Num2,used a Boeing model plane,4,50
+180,67,late,0,100,100,73,50,0,0,38,HBEFGDCA,Tr,FGH,All,use post-it notes,4,100
+180,67,late,0,100,100,73,50,0,0,38,HBEFGDCA,Fa,AB,Some,work in HR,3,0
+180,67,late,0,100,100,73,50,0,0,38,HBEFGDCA,T1,DH,Conj2,bring packed lunches,1,0
+180,67,late,0,100,100,73,50,0,0,38,HBEFGDCA,T2,DEH,Conj3,drink tea,2,29
+245,277,tall,57,76,76,77,62,86,74,71,DACGFEHB,Tr,FGH,All,play video games,2,74
+245,277,tall,57,76,76,77,62,86,74,71,DACGFEHB,Fa,AB,Some,drink coffee,3,37
+245,277,tall,57,76,76,77,62,86,74,71,DACGFEHB,T1,ABDGH,Num2,have roommates,1,73
+245,277,tall,57,76,76,77,62,86,74,71,DACGFEHB,T2,ABDE,None,use public transport,4,32
+188,68,spicy,88,0,67,70,8,0,0,23,FDEGACBH,Tr,ABC,None,are served with noodles,1,18
+188,68,spicy,88,0,67,70,8,0,0,23,FDEGACBH,Fa,ABE,Num2,contain lemongrass,2,11
+188,68,spicy,88,0,67,70,8,0,0,23,FDEGACBH,T1,EGH,Conj3,come with complimentary prawn crackers,4,64
+188,68,spicy,88,0,67,70,8,0,0,23,FDEGACBH,T2,AD,Conj2,contain holy basil,3,17
+186,278,powerful,100,13,68,100,18,38,93,50,DBFHAECG,Tr,ABGH,Num2,have a touchscreen,2,100
+186,278,powerful,100,13,68,100,18,38,93,50,DBFHAECG,Fa,AH,Conj2,are black,3,0
+186,278,powerful,100,13,68,100,18,38,93,50,DBFHAECG,T1,ADFGH,Num3,have heated seats,4,24
+186,278,powerful,100,13,68,100,18,38,93,50,DBFHAECG,T2,DEH,Conj3,have leather interiors,1,70
+17,69,profitable,0,90,100,0,0,100,50,100,FBGAEDHC,Tr,ABGH,Num2,are construction companies,3,0
+17,69,profitable,0,90,100,0,0,100,50,100,FBGAEDHC,Fa,ABH,None,are family businesses,4,100
+17,69,profitable,0,90,100,0,0,100,50,100,FBGAEDHC,T1,EH,Conj2,have employee uniforms,1,95
+17,69,profitable,0,90,100,0,0,100,50,100,FBGAEDHC,T2,ABDE,Some,have 24/7 customer support,2,80
+32,279,young,59,23,100,76,50,100,75,45,HCBFAEGD,Tr,ADGH,Some,have houseplants,1,100
+32,279,young,59,23,100,76,50,100,75,45,HCBFAEGD,Fa,ABH,None,use black pens,4,0
+32,279,young,59,23,100,76,50,100,75,45,HCBFAEGD,T1,DH,Conj2,are left-handed,3,75
+32,279,young,59,23,100,76,50,100,75,45,HCBFAEGD,T2,DEH,All,keep journals,2,85
+173,70,safe,65,50,70,18,100,50,100,100,AHFCGDBE,Tr,AEGH,Some,are situated North of the city center,2,97
+173,70,safe,65,50,70,18,100,50,100,100,AHFCGDBE,Fa,ABDE,Num3,have a public library,4,65
+173,70,safe,65,50,70,18,100,50,100,100,AHFCGDBE,T1,EGH,Conj3,border a river,1,71
+173,70,safe,65,50,70,18,100,50,100,100,AHFCGDBE,T2,AD,Conj2,have a hardware store,3,28
+45,280,hot,58,70,80,94,79,75,59,68,GFAHDCEB,Tr,FGH,All,were workdays,3,79
+45,280,hot,58,70,80,94,79,75,59,68,GFAHDCEB,Fa,ABH,None,had heavy traffic,4,50
+45,280,hot,58,70,80,94,79,75,59,68,GFAHDCEB,T1,ADFGH,Num3,were windy,2,74
+45,280,hot,58,70,80,94,79,75,59,68,GFAHDCEB,T2,AD,Conj2,had high humidity,1,57
+154,281,expensive,19,83,79,27,13,7,92,70,FBEDGHAC,Tr,GH,Conj2,have tinted windows,2,87
+154,281,expensive,19,83,79,27,13,7,92,70,FBEDGHAC,Fa,AB,Some,are grey,1,74
+154,281,expensive,19,83,79,27,13,7,92,70,FBEDGHAC,T1,ADFGH,Num3,have reflector headlights,3,81
+154,281,expensive,19,83,79,27,13,7,92,70,FBEDGHAC,T2,DEH,All,have the gas tank door on the left side,4,76
+136,71,complete,100,3,71,100,51,14,79,90,DCFHAEBG,Tr,FGH,All,involve a repeat offender,2,100
+136,71,complete,100,3,71,100,51,14,79,90,DCFHAEBG,Fa,AH,Conj2,require an official statement from the bank,3,15
+136,71,complete,100,3,71,100,51,14,79,90,DCFHAEBG,T1,ABEGH,Num2,affect retired clients,4,100
+136,71,complete,100,3,71,100,51,14,79,90,DCFHAEBG,T2,ADEH,Num3,are about credit card fraud,1,6
+167,282,large,0,100,1,100,100,100,0,100,CGFHEBDA,Tr,ADGH,Some,have air conditioning,1,100
+167,282,large,0,100,1,100,100,100,0,100,CGFHEBDA,Fa,AH,Conj2,come pre-furnished,3,0
+167,282,large,0,100,1,100,100,100,0,100,CGFHEBDA,T1,ABEGH,Num2,have double-glazed windows,2,100
+167,282,large,0,100,1,100,100,100,0,100,CGFHEBDA,T2,ABDE,None,are located on the top floor,4,3
+170,283,late,0,26,91,5,0,63,0,0,HCBEFAGD,Tr,ABGH,Num2,drink tea,2,100
+170,283,late,0,26,91,5,0,63,0,0,HCBEFAGD,Fa,ABH,Conj3,use post-it notes,1,0
+170,283,late,0,26,91,5,0,63,0,0,HCBEFAGD,T1,AEFGH,Num3,bring packed lunches,4,87
+170,283,late,0,26,91,5,0,63,0,0,HCBEFAGD,T2,AD,Conj2,work in HR,3,0
+73,72,full,0,0,100,0,100,0,0,0,HGCAEBDF,Tr,FGH,Conj3,used a Boeing model plane,3,0
+73,72,full,0,0,100,0,100,0,0,0,HGCAEBDF,Fa,ABDH,All,were international,2,0
+73,72,full,0,0,100,0,100,0,0,0,HGCAEBDF,T1,DH,Conj2,left in the morning,4,0
+73,72,full,0,0,100,0,100,0,0,0,HGCAEBDF,T2,ABEH,Num2,included a layover,1,0
+143,284,spicy,100,0,100,100,100,0,0,100,GFHDBACE,Tr,FGH,Conj3,come with complimentary prawn crackers,2,100
+143,284,spicy,100,0,100,100,100,0,0,100,GFHDBACE,Fa,ABEH,All,are served with noodles,3,0
+143,284,spicy,100,0,100,100,100,0,0,100,GFHDBACE,T1,DEGH,Some,contain lemongrass,1,100
+143,284,spicy,100,0,100,100,100,0,0,100,GFHDBACE,T2,ADEH,Num3,contain holy basil,4,100
+128,73,tall,0,43,44,100,100,100,100,26,AGBDFHEC,Tr,ABC,None,use public transport,3,65
+128,73,tall,0,43,44,100,100,100,100,26,AGBDFHEC,Fa,ABE,Num2,play video games,2,34
+128,73,tall,0,43,44,100,100,100,100,26,AGBDFHEC,T1,DEGH,All,drink coffee,4,83
+128,73,tall,0,43,44,100,100,100,100,26,AGBDFHEC,T2,DEH,Conj3,have roommates,1,100
+212,74,powerful,34,22,70,55,76,50,46,77,FGHDACEB,Tr,GH,Conj2,are black,4,88
+212,74,powerful,34,22,70,55,76,50,46,77,FGHDACEB,Fa,ABH,None,have leather interiors,1,14
+212,74,powerful,34,22,70,55,76,50,46,77,FGHDACEB,T1,DEGH,Some,have heated seats,3,100
+212,74,powerful,34,22,70,55,76,50,46,77,FGHDACEB,T2,DEH,Conj3,have a touchscreen,2,57
+202,285,profitable,67,79,87,50,64,58,79,32,FHBAECDG,Tr,FGH,Conj3,are construction companies,4,100
+202,285,profitable,67,79,87,50,64,58,79,32,FHBAECDG,Fa,AH,Conj2,are family businesses,1,80
+202,285,profitable,67,79,87,50,64,58,79,32,FHBAECDG,T1,ABE,None,have 24/7 customer support,3,90
+202,285,profitable,67,79,87,50,64,58,79,32,FHBAECDG,T2,ABEH,Num2,have employee uniforms,2,13
+125,286,safe,79,98,96,33,56,97,100,96,EAGBFDHC,Tr,AEGH,Some,have a public library,2,74
+125,286,safe,79,98,96,33,56,97,100,96,EAGBFDHC,Fa,ABDH,All,border a river,1,67
+125,286,safe,79,98,96,33,56,97,100,96,EAGBFDHC,T1,DGH,Conj3,are situated North of the city center,3,77
+125,286,safe,79,98,96,33,56,97,100,96,EAGBFDHC,T2,ABDE,None,have a hardware store,4,60
+240,75,young,23,100,100,44,40,70,54,51,GBDCHEFA,Tr,ABGH,Num2,keep journals,2,100
+240,75,young,23,100,100,44,40,70,54,51,GBDCHEFA,Fa,ABDH,All,are left-handed,1,0
+240,75,young,23,100,100,44,40,70,54,51,GBDCHEFA,T1,ABD,None,have houseplants,4,75
+240,75,young,23,100,100,44,40,70,54,51,GBDCHEFA,T2,ADEH,Num3,use black pens,3,56
+244,287,complete,100,0,57,100,100,88,0,77,CFDHBAEG,Tr,AFGH,Num3,involve a repeat offender,3,26
+244,287,complete,100,0,57,100,100,88,0,77,CFDHBAEG,Fa,AH,Conj2,are about credit card fraud,1,0
+244,287,complete,100,0,57,100,100,88,0,77,CFDHBAEG,T1,DGH,Conj3,affect retired clients,4,85
+244,287,complete,100,0,57,100,100,88,0,77,CFDHBAEG,T2,DEH,All,require an official statement from the bank,2,71
+28,76,hot,63,81,61,77,74,55,86,100,BDHEFGAC,Tr,FGH,Conj3,were windy,4,92
+28,76,hot,63,81,61,77,74,55,86,100,BDHEFGAC,Fa,ABDE,Num3,were workdays,1,81
+28,76,hot,63,81,61,77,74,55,86,100,BDHEFGAC,T1,DEGH,All,had heavy traffic,2,86
+28,76,hot,63,81,61,77,74,55,86,100,BDHEFGAC,T2,ABEH,Num2,had high humidity,3,67
+187,288,full,0,100,18,36,80,100,100,87,BDECGHFA,Tr,GH,Conj2,left in the morning,2,100
+187,288,full,0,100,18,36,80,100,100,87,BDECGHFA,Fa,ABEH,All,were international,1,0
+187,288,full,0,100,18,36,80,100,100,87,BDECGHFA,T1,ABEGH,Num2,used a Boeing model plane,4,27
+187,288,full,0,100,18,36,80,100,100,87,BDECGHFA,T2,ADEH,Num3,included a layover,3,76
+178,77,expensive,59,33,16,11,18,91,29,64,BDGAECHF,Tr,FGH,All,are grey,1,10
+178,77,expensive,59,33,16,11,18,91,29,64,BDGAECHF,Fa,ABDE,Num3,have the gas tank door on the left side,3,29
+178,77,expensive,59,33,16,11,18,91,29,64,BDGAECHF,T1,EGH,Conj3,have tinted windows,4,85
+178,77,expensive,59,33,16,11,18,91,29,64,BDGAECHF,T2,ABDE,None,have reflector headlights,2,73
+147,289,tall,67,35,70,34,23,88,20,24,FBCEADHG,Tr,ABGH,Num2,have roommates,1,100
+147,289,tall,67,35,70,34,23,88,20,24,FBCEADHG,Fa,ABDH,All,play video games,2,8
+147,289,tall,67,35,70,34,23,88,20,24,FBCEADHG,T1,DEGH,Some,use public transport,4,100
+147,289,tall,67,35,70,34,23,88,20,24,FBCEADHG,T2,AE,Conj2,drink coffee,3,17
+210,290,powerful,0,100,100,0,23,84,0,2,GEACHDFB,Tr,ABC,None,have heated seats,1,100
+210,290,powerful,0,100,100,0,23,84,0,2,GEACHDFB,Fa,ABDE,Num3,have a touchscreen,4,0
+210,290,powerful,0,100,100,0,23,84,0,2,GEACHDFB,T1,DEGH,Some,have leather interiors,3,100
+210,290,powerful,0,100,100,0,23,84,0,2,GEACHDFB,T2,DEH,Conj3,are black,2,41
+25,78,large,22,33,2,88,4,0,78,89,ABHGEFCD,Tr,FGH,All,come pre-furnished,2,98
+25,78,large,22,33,2,88,4,0,78,89,ABHGEFCD,Fa,AB,Some,are located on the top floor,3,4
+25,78,large,22,33,2,88,4,0,78,89,ABHGEFCD,T1,AEFGH,Num3,have air conditioning,1,97
+25,78,large,22,33,2,88,4,0,78,89,ABHGEFCD,T2,ABDE,None,have double-glazed windows,4,73
+243,291,young,67,36,62,9,21,68,89,23,DBCAEHFG,Tr,FGH,Conj3,are left-handed,2,85
+243,291,young,67,36,62,9,21,68,89,23,DBCAEHFG,Fa,AB,Some,keep journals,3,28
+243,291,young,67,36,62,9,21,68,89,23,DBCAEHFG,T1,AEFGH,Num3,have houseplants,4,67
+243,291,young,67,36,62,9,21,68,89,23,DBCAEHFG,T2,AD,Conj2,use black pens,1,4
+66,79,late,0,73,11,25,0,1,0,73,EBHFGCDA,Tr,AEGH,Some,drink tea,1,98
+66,79,late,0,73,11,25,0,1,0,73,EBHFGCDA,Fa,ABH,Conj3,use post-it notes,2,0
+66,79,late,0,73,11,25,0,1,0,73,EBHFGCDA,T1,ABEGH,Num2,work in HR,4,97
+66,79,late,0,73,11,25,0,1,0,73,EBHFGCDA,T2,ADEH,Num3,bring packed lunches,3,0
+204,292,hot,46,29,100,0,100,0,5,100,GFHADCBE,Tr,ABGH,Num2,were windy,4,90
+204,292,hot,46,29,100,0,100,0,5,100,GFHADCBE,Fa,ABH,None,had high humidity,3,18
+204,292,hot,46,29,100,0,100,0,5,100,GFHADCBE,T1,EGH,Conj3,had heavy traffic,1,71
+204,292,hot,46,29,100,0,100,0,5,100,GFHADCBE,T2,AE,Conj2,were workdays,2,3
+87,80,spicy,50,50,84,100,50,64,38,84,GAFHCDEB,Tr,GH,Conj2,contain lemongrass,1,100
+87,80,spicy,50,50,84,100,50,64,38,84,GAFHCDEB,Fa,ABD,Num2,come with complimentary prawn crackers,2,50
+87,80,spicy,50,50,84,100,50,64,38,84,GAFHCDEB,T1,DEGH,Some,contain holy basil,3,100
+87,80,spicy,50,50,84,100,50,64,38,84,GAFHCDEB,T2,DEH,All,are served with noodles,4,74
+177,293,expensive,68,39,12,0,22,100,50,85,BCGADEHF,Tr,AFGH,Num3,have the gas tank door on the left side,4,100
+177,293,expensive,68,39,12,0,22,100,50,85,BCGADEHF,Fa,ABH,None,have tinted windows,3,0
+177,293,expensive,68,39,12,0,22,100,50,85,BCGADEHF,T1,DH,Conj2,are grey,1,0
+177,293,expensive,68,39,12,0,22,100,50,85,BCGADEHF,T2,DEH,All,have reflector headlights,2,13
+230,81,profitable,100,88,1,0,0,73,55,58,ACEBGDFH,Tr,FGH,Conj3,have employee uniforms,3,100
+230,81,profitable,100,88,1,0,0,73,55,58,ACEBGDFH,Fa,ABDE,Num3,have 24/7 customer support,4,0
+230,81,profitable,100,88,1,0,0,73,55,58,ACEBGDFH,T1,ABD,None,are family businesses,2,30
+230,81,profitable,100,88,1,0,0,73,55,58,ACEBGDFH,T2,AE,Conj2,are construction companies,1,0
+235,294,large,41,83,100,80,0,6,92,39,HADFEGBC,Tr,ABC,None,come pre-furnished,3,100
+235,294,large,41,83,100,80,0,6,92,39,HADFEGBC,Fa,ABE,Num2,have air conditioning,2,0
+235,294,large,41,83,100,80,0,6,92,39,HADFEGBC,T1,DEGH,All,have double-glazed windows,1,68
+235,294,large,41,83,100,80,0,6,92,39,HADFEGBC,T2,AE,Conj2,are located on the top floor,4,0
+243,82,safe,66,81,50,92,14,60,39,26,EABHGCDF,Tr,FGH,Conj3,have a public library,1,97
+243,82,safe,66,81,50,92,14,60,39,26,EABHGCDF,Fa,ABH,None,have a hardware store,3,8
+243,82,safe,66,81,50,92,14,60,39,26,EABHGCDF,T1,DEGH,All,border a river,2,86
+243,82,safe,66,81,50,92,14,60,39,26,EABHGCDF,T2,ADEH,Num3,are situated North of the city center,4,22
+162,295,late,100,0,100,0,100,100,0,0,HFADBCGE,Tr,AFGH,Num3,work in HR,3,100
+162,295,late,100,0,100,0,100,100,0,0,HFADBCGE,Fa,ABD,Num2,drink tea,2,0
+162,295,late,100,0,100,0,100,100,0,0,HFADBCGE,T1,DEGH,All,bring packed lunches,4,0
+162,295,late,100,0,100,0,100,100,0,0,HFADBCGE,T2,AE,Conj2,use post-it notes,1,7
+172,296,spicy,60,0,11,0,29,56,76,0,DEBCAHGF,Tr,ABC,None,contain lemongrass,3,100
+172,296,spicy,60,0,11,0,29,56,76,0,DEBCAHGF,Fa,AB,Some,are served with noodles,2,0
+172,296,spicy,60,0,11,0,29,56,76,0,DEBCAHGF,T1,EGH,Conj3,come with complimentary prawn crackers,4,65
+172,296,spicy,60,0,11,0,29,56,76,0,DEBCAHGF,T2,DEH,All,contain holy basil,1,0
+155,83,complete,70,33,72,33,67,70,24,65,GHBFDACE,Tr,ABGH,Num2,affect retired clients,4,67
+155,83,complete,70,33,72,33,67,70,24,65,GHBFDACE,Fa,ABH,None,involve a repeat offender,2,84
+155,83,complete,70,33,72,33,67,70,24,65,GHBFDACE,T1,DEGH,All,require an official statement from the bank,1,69
+155,83,complete,70,33,72,33,67,70,24,65,GHBFDACE,T2,DEH,Conj3,are about credit card fraud,3,27
+190,297,profitable,80,79,83,79,78,76,79,82,GHEDFCAB,Tr,FGH,Conj3,are family businesses,1,83
+190,297,profitable,80,79,83,79,78,76,79,82,GHEDFCAB,Fa,ABE,Num2,have 24/7 customer support,3,86
+190,297,profitable,80,79,83,79,78,76,79,82,GHEDFCAB,T1,DH,Conj2,are construction companies,4,88
+190,297,profitable,80,79,83,79,78,76,79,82,GHEDFCAB,T2,ABDE,None,have employee uniforms,2,81
+44,84,full,100,80,89,100,24,10,80,72,FBCHEDAG,Tr,FGH,All,used a Boeing model plane,4,86
+44,84,full,100,80,89,100,24,10,80,72,FBCHEDAG,Fa,ABH,None,left in the morning,2,4
+44,84,full,100,80,89,100,24,10,80,72,FBCHEDAG,T1,ADFGH,Num3,were international,1,77
+44,84,full,100,80,89,100,24,10,80,72,FBCHEDAG,T2,AD,Conj2,included a layover,3,11
+29,85,tall,100,32,1,71,59,50,0,81,BEGFCADH,Tr,ABGH,Num2,play video games,3,100
+29,85,tall,100,32,1,71,59,50,0,81,BEGFCADH,Fa,AH,Conj2,use public transport,1,10
+29,85,tall,100,32,1,71,59,50,0,81,BEGFCADH,T1,ABD,None,drink coffee,2,62
+29,85,tall,100,32,1,71,59,50,0,81,BEGFCADH,T2,ADEH,Num3,have roommates,4,24
+160,298,safe,4,50,43,90,20,26,15,11,EGBHFCDA,Tr,AFGH,Num3,have a public library,4,65
+160,298,safe,4,50,43,90,20,26,15,11,EGBHFCDA,Fa,ABD,Num2,are situated North of the city center,3,0
+160,298,safe,4,50,43,90,20,26,15,11,EGBHFCDA,T1,DEGH,All,border a river,2,65
+160,298,safe,4,50,43,90,20,26,15,11,EGBHFCDA,T2,AE,Conj2,have a hardware store,1,0
+81,299,complete,0,0,1,100,0,100,85,83,DAEHCFGB,Tr,ABC,None,affect retired clients,3,0
+81,299,complete,0,0,1,100,0,100,85,83,DAEHCFGB,Fa,ABDE,Num3,require an official statement from the bank,2,30
+81,299,complete,0,0,1,100,0,100,85,83,DAEHCFGB,T1,ABEGH,Num2,involve a repeat offender,1,23
+81,299,complete,0,0,1,100,0,100,85,83,DAEHCFGB,T2,DEH,Conj3,are about credit card fraud,4,0
+48,86,powerful,94,91,90,96,95,94,94,94,GDBCAFEH,Tr,FGH,Conj3,are black,3,96
+48,86,powerful,94,91,90,96,95,94,94,94,GDBCAFEH,Fa,AH,Conj2,have leather interiors,4,89
+48,86,powerful,94,91,90,96,95,94,94,94,GDBCAFEH,T1,ABE,None,have a touchscreen,1,92
+48,86,powerful,94,91,90,96,95,94,94,94,GDBCAFEH,T2,ADEH,Num3,have heated seats,2,50
+163,87,young,0,100,74,100,37,9,100,57,ECDGHFBA,Tr,AFGH,Num3,are left-handed,1,100
+163,87,young,0,100,74,100,37,9,100,57,ECDGHFBA,Fa,ABH,Conj3,keep journals,3,0
+163,87,young,0,100,74,100,37,9,100,57,ECDGHFBA,T1,EH,Conj2,use black pens,4,94
+163,87,young,0,100,74,100,37,9,100,57,ECDGHFBA,T2,ABEH,Num2,have houseplants,2,100
+256,300,full,10,0,25,100,0,54,28,78,EHBAGDCF,Tr,GH,Conj2,left in the morning,3,62
+256,300,full,10,0,25,100,0,54,28,78,EHBAGDCF,Fa,AB,Some,were international,4,67
+256,300,full,10,0,25,100,0,54,28,78,EHBAGDCF,T1,ABEGH,Num2,included a layover,1,84
+256,300,full,10,0,25,100,0,54,28,78,EHBAGDCF,T2,ADEH,Num3,used a Boeing model plane,2,75
+100,88,hot,100,7,90,11,59,76,29,70,GDEBACFH,Tr,ABC,None,were windy,4,18
+100,88,hot,100,7,90,11,59,76,29,70,GDEBACFH,Fa,ABE,Num2,were workdays,1,23
+100,88,hot,100,7,90,11,59,76,29,70,GDEBACFH,T1,DEGH,All,had high humidity,2,100
+100,88,hot,100,7,90,11,59,76,29,70,GDEBACFH,T2,ADEH,Num3,had heavy traffic,3,77
+91,89,expensive,23,70,100,42,36,53,88,62,HBECFGDA,Tr,FGH,All,are grey,1,88
+91,89,expensive,23,70,100,42,36,53,88,62,HBECFGDA,Fa,AH,Conj2,have the gas tank door on the left side,2,0
+91,89,expensive,23,70,100,42,36,53,88,62,HBECFGDA,T1,ADFGH,Num3,have tinted windows,3,49
+91,89,expensive,23,70,100,42,36,53,88,62,HBECFGDA,T2,ABDE,None,have reflector headlights,4,39
+115,90,large,66,51,100,29,0,87,0,8,HACDEBGF,Tr,ABC,None,come pre-furnished,2,100
+115,90,large,66,51,100,29,0,87,0,8,HACDEBGF,Fa,AB,Some,are located on the top floor,1,0
+115,90,large,66,51,100,29,0,87,0,8,HACDEBGF,T1,DH,Conj2,have air conditioning,3,50
+115,90,large,66,51,100,29,0,87,0,8,HACDEBGF,T2,DEH,All,have double-glazed windows,4,70
+203,91,late,3,1,98,0,67,60,19,0,HGCBAEFD,Tr,FGH,Conj3,work in HR,1,86
+203,91,late,3,1,98,0,67,60,19,0,HGCBAEFD,Fa,AH,Conj2,drink tea,4,52
+203,91,late,3,1,98,0,67,60,19,0,HGCBAEFD,T1,ADFGH,Num3,use post-it notes,3,50
+203,91,late,3,1,98,0,67,60,19,0,HGCBAEFD,T2,ABEH,Num2,bring packed lunches,2,50
+30,92,spicy,100,0,56,83,5,84,0,29,ECDFBAGH,Tr,ADGH,Some,contain lemongrass,2,100
+30,92,spicy,100,0,56,83,5,84,0,29,ECDFBAGH,Fa,ABD,Num2,are served with noodles,4,0
+30,92,spicy,100,0,56,83,5,84,0,29,ECDFBAGH,T1,ADFGH,Num3,contain holy basil,3,100
+30,92,spicy,100,0,56,83,5,84,0,29,ECDFBAGH,T2,ABDE,None,come with complimentary prawn crackers,1,0
+165,93,profitable,100,100,1,100,100,100,0,0,AFCHGBDE,Tr,GH,Conj2,are family businesses,2,100
+165,93,profitable,100,100,1,100,100,100,0,0,AFCHGBDE,Fa,ABE,Num2,are construction companies,1,0
+165,93,profitable,100,100,1,100,100,100,0,0,AFCHGBDE,T1,DEGH,All,have employee uniforms,3,100
+165,93,profitable,100,100,1,100,100,100,0,0,AFCHGBDE,T2,ABDE,None,have 24/7 customer support,4,0
+293,94,safe,0,100,21,89,0,85,39,64,CBEGHDFA,Tr,FGH,All,are situated North of the city center,2,82
+293,94,safe,0,100,21,89,0,85,39,64,CBEGHDFA,Fa,ABH,None,border a river,1,0
+293,94,safe,0,100,21,89,0,85,39,64,CBEGHDFA,T1,DGH,Conj3,have a hardware store,3,24
+293,94,safe,0,100,21,89,0,85,39,64,CBEGHDFA,T2,AE,Conj2,have a public library,4,0
+242,95,complete,0,100,1,100,100,0,0,5,BGAFHCDE,Tr,ABC,None,require an official statement from the bank,1,100
+242,95,complete,0,100,1,100,100,0,0,5,BGAFHCDE,Fa,ABDE,Num3,are about credit card fraud,3,0
+242,95,complete,0,100,1,100,100,0,0,5,BGAFHCDE,T1,DEGH,Some,involve a repeat offender,2,100
+242,95,complete,0,100,1,100,100,0,0,5,BGAFHCDE,T2,AE,Conj2,affect retired clients,4,0
+3,96,full,0,11,27,9,50,0,90,7,CBFDEAGH,Tr,FGH,Conj3,included a layover,4,0
+3,96,full,0,11,27,9,50,0,90,7,CBFDEAGH,Fa,ABDE,Num3,were international,3,74
+3,96,full,0,11,27,9,50,0,90,7,CBFDEAGH,T1,DEGH,Some,left in the morning,1,20
+3,96,full,0,11,27,9,50,0,90,7,CBFDEAGH,T2,DEH,All,used a Boeing model plane,2,0
+295,97,tall,0,100,30,29,68,100,100,100,BDFCHEGA,Tr,ABGH,Num2,have roommates,4,100
+295,97,tall,0,100,30,29,68,100,100,100,BDFCHEGA,Fa,ABH,None,use public transport,2,0
+295,97,tall,0,100,30,29,68,100,100,100,BDFCHEGA,T1,DEGH,Some,play video games,1,94
+295,97,tall,0,100,30,29,68,100,100,100,BDFCHEGA,T2,ADEH,Num3,drink coffee,3,100
+138,98,powerful,50,56,11,37,100,21,79,73,AHFCEGBD,Tr,AFGH,Num3,have leather interiors,4,100
+138,98,powerful,50,56,11,37,100,21,79,73,AHFCEGBD,Fa,ABH,None,have heated seats,1,0
+138,98,powerful,50,56,11,37,100,21,79,73,AHFCEGBD,T1,DEGH,Some,are black,2,100
+138,98,powerful,50,56,11,37,100,21,79,73,AHFCEGBD,T2,DEH,Conj3,have a touchscreen,3,95
+182,99,young,97,40,20,60,49,45,74,31,AFGCHDEB,Tr,ADGH,Some,are left-handed,4,50
+182,99,young,97,40,20,60,49,45,74,31,AFGCHDEB,Fa,ABDE,Num3,have houseplants,3,50
+182,99,young,97,40,20,60,49,45,74,31,AFGCHDEB,T1,ABDGH,Num2,keep journals,1,100
+182,99,young,97,40,20,60,49,45,74,31,AFGCHDEB,T2,DEH,All,use black pens,2,100
+238,100,hot,69,68,80,88,84,99,74,82,DFEGACHB,Tr,AFGH,Num3,were windy,3,91
+238,100,hot,69,68,80,88,84,99,74,82,DFEGACHB,Fa,AH,Conj2,had high humidity,2,77
+238,100,hot,69,68,80,88,84,99,74,82,DFEGACHB,T1,DGH,Conj3,had heavy traffic,1,80
+238,100,hot,69,68,80,88,84,99,74,82,DFEGACHB,T2,ABDE,Some,were workdays,4,71
+175,101,expensive,100,63,38,80,73,68,88,54,ADBHGECF,Tr,ABGH,Num2,have tinted windows,2,100
+175,101,expensive,100,63,38,80,73,68,88,54,ADBHGECF,Fa,ABEH,All,are grey,1,68
+175,101,expensive,100,63,38,80,73,68,88,54,ADBHGECF,T1,DH,Conj2,have the gas tank door on the left side,3,100
+175,101,expensive,100,63,38,80,73,68,88,54,ADBHGECF,T2,ADEH,Num3,have reflector headlights,4,100
+129,102,large,100,22,5,75,58,47,87,15,CDAGBEFH,Tr,FGH,All,are located on the top floor,2,100
+129,102,large,100,22,5,75,58,47,87,15,CDAGBEFH,Fa,AH,Conj2,have double-glazed windows,3,5
+129,102,large,100,22,5,75,58,47,87,15,CDAGBEFH,T1,ADFGH,Num3,come pre-furnished,1,100
+129,102,large,100,22,5,75,58,47,87,15,CDAGBEFH,T2,DEH,Conj3,have air conditioning,4,13
+83,103,late,100,100,1,0,100,100,0,0,BECAHDFG,Tr,ABC,None,drink tea,2,100
+83,103,late,100,100,1,0,100,100,0,0,BECAHDFG,Fa,ABD,Num2,bring packed lunches,4,0
+83,103,late,100,100,1,0,100,100,0,0,BECAHDFG,T1,ADFGH,Num3,use post-it notes,1,100
+83,103,late,100,100,1,0,100,100,0,0,BECAHDFG,T2,DEH,All,work in HR,3,0
+222,104,spicy,100,0,1,58,100,0,50,96,CHGEBDAF,Tr,FGH,All,contain lemongrass,3,99
+222,104,spicy,100,0,1,58,100,0,50,96,CHGEBDAF,Fa,AH,Conj2,come with complimentary prawn crackers,4,50
+222,104,spicy,100,0,1,58,100,0,50,96,CHGEBDAF,T1,ABD,None,are served with noodles,2,0
+222,104,spicy,100,0,1,58,100,0,50,96,CHGEBDAF,T2,DEH,Conj3,contain holy basil,1,93
+18,105,profitable,72,3,75,10,58,12,96,100,FDHBAGCE,Tr,GH,Conj2,have 24/7 customer support,4,100
+18,105,profitable,72,3,75,10,58,12,96,100,FDHBAGCE,Fa,AB,Some,have employee uniforms,3,4
+18,105,profitable,72,3,75,10,58,12,96,100,FDHBAGCE,T1,DEGH,All,are construction companies,1,100
+18,105,profitable,72,3,75,10,58,12,96,100,FDHBAGCE,T2,ABDH,Num2,are family businesses,2,88
+248,106,safe,90,91,12,62,100,70,54,0,BHADGCEF,Tr,FGH,All,border a river,1,95
+248,106,safe,90,91,12,62,100,70,54,0,BHADGCEF,Fa,ABE,Num2,are situated North of the city center,3,8
+248,106,safe,90,91,12,62,100,70,54,0,BHADGCEF,T1,DEGH,Some,have a public library,2,100
+248,106,safe,90,91,12,62,100,70,54,0,BHADGCEF,T2,ADEH,Num3,have a hardware store,4,70
+289,107,complete,21,92,48,100,100,83,0,69,CHDGFAEB,Tr,ABGH,Num2,are about credit card fraud,3,100
+289,107,complete,21,92,48,100,100,83,0,69,CHDGFAEB,Fa,ABH,Conj3,require an official statement from the bank,4,0
+289,107,complete,21,92,48,100,100,83,0,69,CHDGFAEB,T1,EH,Conj2,involve a repeat offender,1,86
+289,107,complete,21,92,48,100,100,83,0,69,CHDGFAEB,T2,ABDE,Some,affect retired clients,2,64
+232,108,full,100,0,34,87,23,33,92,100,DBHEAFCG,Tr,FGH,All,included a layover,4,100
+232,108,full,100,0,34,87,23,33,92,100,DBHEAFCG,Fa,ABH,None,used a Boeing model plane,2,0
+232,108,full,100,0,34,87,23,33,92,100,DBHEAFCG,T1,ABDGH,Num2,were international,1,100
+232,108,full,100,0,34,87,23,33,92,100,DBHEAFCG,T2,ABDE,Some,left in the morning,3,50
+117,109,tall,47,49,100,100,20,85,100,0,FBAGDHEC,Tr,ABC,None,drink coffee,3,58
+117,109,tall,47,49,100,100,20,85,100,0,FBAGDHEC,Fa,ABEH,All,have roommates,1,0
+117,109,tall,47,49,100,100,20,85,100,0,FBAGDHEC,T1,DH,Conj2,use public transport,2,30
+117,109,tall,47,49,100,100,20,85,100,0,FBAGDHEC,T2,ABEH,Num2,play video games,4,78
+185,110,powerful,58,55,60,75,68,72,85,79,FAECDHBG,Tr,FGH,Conj3,have leather interiors,1,80
+185,110,powerful,58,55,60,75,68,72,85,79,FAECDHBG,Fa,ABDE,Num3,are black,4,67
+185,110,powerful,58,55,60,75,68,72,85,79,FAECDHBG,T1,DEGH,All,have a touchscreen,3,30
+185,110,powerful,58,55,60,75,68,72,85,79,FAECDHBG,T2,AE,Conj2,have heated seats,2,63
+5,111,young,99,72,85,84,98,93,73,77,DHBECAFG,Tr,FGH,All,use black pens,4,86
+5,111,young,99,72,85,84,98,93,73,77,DHBECAFG,Fa,ABH,None,have houseplants,3,65
+5,111,young,99,72,85,84,98,93,73,77,DHBECAFG,T1,EH,Conj2,keep journals,1,68
+5,111,young,99,72,85,84,98,93,73,77,DHBECAFG,T2,ABEH,Num2,are left-handed,2,33
+77,112,hot,83,50,25,99,88,17,73,68,BGDHCEAF,Tr,ABGH,Num2,were windy,3,99
+77,112,hot,83,50,25,99,88,17,73,68,BGDHCEAF,Fa,ABH,None,had high humidity,4,6
+77,112,hot,83,50,25,99,88,17,73,68,BGDHCEAF,T1,AEFGH,Num3,had heavy traffic,2,50
+77,112,hot,83,50,25,99,88,17,73,68,BGDHCEAF,T2,DEH,Conj3,were workdays,1,80
+228,113,expensive,45,82,28,23,74,100,65,42,AFCBGEHD,Tr,FGH,All,have the gas tank door on the left side,3,85
+228,113,expensive,45,82,28,23,74,100,65,42,AFCBGEHD,Fa,AB,Some,have reflector headlights,4,12
+228,113,expensive,45,82,28,23,74,100,65,42,AFCBGEHD,T1,EH,Conj2,have tinted windows,2,100
+228,113,expensive,45,82,28,23,74,100,65,42,AFCBGEHD,T2,ADEH,Num3,are grey,1,79
+223,114,large,51,79,12,21,32,4,63,85,BDHCGFAE,Tr,FGH,All,have double-glazed windows,2,100
+223,114,large,51,79,12,21,32,4,63,85,BDHCGFAE,Fa,AB,Some,have air conditioning,1,0
+223,114,large,51,79,12,21,32,4,63,85,BDHCGFAE,T1,AEFGH,Num3,come pre-furnished,4,83
+223,114,large,51,79,12,21,32,4,63,85,BDHCGFAE,T2,AE,Conj2,are located on the top floor,3,50
+74,115,late,0,33,21,0,0,0,100,79,ECGAFHBD,Tr,ABGH,Num2,use post-it notes,3,100
+74,115,late,0,33,21,0,0,0,100,79,ECGAFHBD,Fa,ABH,Conj3,drink tea,1,0
+74,115,late,0,33,21,0,0,0,100,79,ECGAFHBD,T1,ABE,None,bring packed lunches,4,0
+74,115,late,0,33,21,0,0,0,100,79,ECGAFHBD,T2,ABDE,Some,work in HR,2,0
+211,116,spicy,100,30,1,18,0,65,0,55,BCFDEAGH,Tr,GH,Conj2,contain lemongrass,2,100
+211,116,spicy,100,30,1,18,0,65,0,55,BCFDEAGH,Fa,AB,Some,contain holy basil,4,0
+211,116,spicy,100,30,1,18,0,65,0,55,BCFDEAGH,T1,DEGH,All,are served with noodles,1,0
+211,116,spicy,100,30,1,18,0,65,0,55,BCFDEAGH,T2,ABDH,Num2,come with complimentary prawn crackers,3,56
+201,117,profitable,100,80,34,93,11,63,1,58,CBDFGAEH,Tr,ABC,None,have 24/7 customer support,2,100
+201,117,profitable,100,80,34,93,11,63,1,58,CBDFGAEH,Fa,ABH,Conj3,have employee uniforms,3,6
+201,117,profitable,100,80,34,93,11,63,1,58,CBDFGAEH,T1,DH,Conj2,are construction companies,1,96
+201,117,profitable,100,80,34,93,11,63,1,58,CBDFGAEH,T2,ABDE,Some,are family businesses,4,91
+65,118,safe,77,0,100,68,0,45,90,74,HAEDBGCF,Tr,FGH,Conj3,are situated North of the city center,3,100
+65,118,safe,77,0,100,68,0,45,90,74,HAEDBGCF,Fa,ABD,Num2,have a public library,2,0
+65,118,safe,77,0,100,68,0,45,90,74,HAEDBGCF,T1,ADFGH,Num3,have a hardware store,4,100
+65,118,safe,77,0,100,68,0,45,90,74,HAEDBGCF,T2,AD,Conj2,border a river,1,0
+36,119,complete,0,100,14,100,86,63,50,77,BFEGHCDA,Tr,GH,Conj2,affect retired clients,4,98
+36,119,complete,0,100,14,100,86,63,50,77,BFEGHCDA,Fa,ABH,Conj3,involve a repeat offender,2,25
+36,119,complete,0,100,14,100,86,63,50,77,BFEGHCDA,T1,ABD,None,require an official statement from the bank,1,98
+36,119,complete,0,100,14,100,86,63,50,77,BFEGHCDA,T2,ABEH,Num2,are about credit card fraud,3,85
+171,120,full,92,90,1,93,39,73,100,100,ABGFDHCE,Tr,ABGH,Num2,included a layover,2,100
+171,120,full,92,90,1,93,39,73,100,100,ABGFDHCE,Fa,AH,Conj2,were international,3,27
+171,120,full,92,90,1,93,39,73,100,100,ABGFDHCE,T1,DEGH,All,left in the morning,1,94
+171,120,full,92,90,1,93,39,73,100,100,ABGFDHCE,T2,ADEH,Num3,used a Boeing model plane,4,85
+55,121,tall,81,100,100,33,61,100,20,100,ECGBFAHD,Tr,FGH,Conj3,drink coffee,2,100
+55,121,tall,81,100,100,33,61,100,20,100,ECGBFAHD,Fa,ABH,None,have roommates,4,50
+55,121,tall,81,100,100,33,61,100,20,100,ECGBFAHD,T1,DEGH,Some,use public transport,1,86
+55,121,tall,81,100,100,33,61,100,20,100,ECGBFAHD,T2,AE,Conj2,play video games,3,22
+200,122,powerful,15,56,64,40,73,87,64,11,HEACDFGB,Tr,GH,Conj2,are black,1,73
+200,122,powerful,15,56,64,40,73,87,64,11,HEACDFGB,Fa,ABH,None,have a touchscreen,2,76
+200,122,powerful,15,56,64,40,73,87,64,11,HEACDFGB,T1,DGH,Conj3,have heated seats,4,82
+200,122,powerful,15,56,64,40,73,87,64,11,HEACDFGB,T2,ADEH,Num3,have leather interiors,3,79
+279,123,young,23,63,91,55,82,0,68,31,HGCDEFAB,Tr,AEGH,Some,use black pens,1,80
+279,123,young,23,63,91,55,82,0,68,31,HGCDEFAB,Fa,ABEH,All,keep journals,4,0
+279,123,young,23,63,91,55,82,0,68,31,HGCDEFAB,T1,AEFGH,Num3,have houseplants,3,85
+279,123,young,23,63,91,55,82,0,68,31,HGCDEFAB,T2,ABDE,None,are left-handed,2,57
+76,124,hot,72,91,66,92,100,57,79,73,CHEFGDBA,Tr,ABC,None,were workdays,4,9
+76,124,hot,72,91,66,92,100,57,79,73,CHEFGDBA,Fa,AB,Some,were windy,1,87
+76,124,hot,72,91,66,92,100,57,79,73,CHEFGDBA,T1,DEGH,All,had high humidity,2,100
+76,124,hot,72,91,66,92,100,57,79,73,CHEFGDBA,T2,AE,Conj2,had heavy traffic,3,24
+13,125,expensive,79,72,85,43,4,5,16,18,EHCGDBAF,Tr,ABGH,Num2,have reflector headlights,3,23
+13,125,expensive,79,72,85,43,4,5,16,18,EHCGDBAF,Fa,AH,Conj2,have the gas tank door on the left side,2,26
+13,125,expensive,79,72,85,43,4,5,16,18,EHCGDBAF,T1,DGH,Conj3,are grey,1,40
+13,125,expensive,79,72,85,43,4,5,16,18,EHCGDBAF,T2,ABDE,Some,have tinted windows,4,26
+94,126,large,27,100,96,89,100,35,90,100,DCEFHGBA,Tr,AFGH,Num3,have air conditioning,2,98
+94,126,large,27,100,96,89,100,35,90,100,DCEFHGBA,Fa,ABH,None,have double-glazed windows,4,12
+94,126,large,27,100,96,89,100,35,90,100,DCEFHGBA,T1,DH,Conj2,are located on the top floor,1,87
+94,126,large,27,100,96,89,100,35,90,100,DCEFHGBA,T2,DEH,Conj3,come pre-furnished,3,100
+116,127,late,96,36,50,24,80,88,70,18,DFABCEGH,Tr,FGH,Conj3,drink tea,4,86
+116,127,late,96,36,50,24,80,88,70,18,DFABCEGH,Fa,ABDE,Num3,bring packed lunches,3,55
+116,127,late,96,36,50,24,80,88,70,18,DFABCEGH,T1,DEGH,All,work in HR,2,91
+116,127,late,96,36,50,24,80,88,70,18,DFABCEGH,T2,AD,Conj2,use post-it notes,1,62
+110,128,spicy,80,100,1,0,0,50,17,55,ACEBHDGF,Tr,ABGH,Num2,come with complimentary prawn crackers,2,100
+110,128,spicy,80,100,1,0,0,50,17,55,ACEBHDGF,Fa,ABDE,Num3,contain lemongrass,3,86
+110,128,spicy,80,100,1,0,0,50,17,55,ACEBHDGF,T1,DEGH,Some,contain holy basil,4,100
+110,128,spicy,80,100,1,0,0,50,17,55,ACEBHDGF,T2,AE,Conj2,are served with noodles,1,21
+156,129,profitable,100,79,1,0,70,0,100,100,CDFAEGBH,Tr,FGH,All,are family businesses,1,100
+156,129,profitable,100,79,1,0,70,0,100,100,CDFAEGBH,Fa,ABH,None,have 24/7 customer support,3,0
+156,129,profitable,100,79,1,0,70,0,100,100,CDFAEGBH,T1,EH,Conj2,have employee uniforms,4,100
+156,129,profitable,100,79,1,0,70,0,100,100,CDFAEGBH,T2,ABEH,Num2,are construction companies,2,100
+8,130,safe,46,100,100,100,74,77,56,64,FDCHGBEA,Tr,FGH,All,border a river,2,100
+8,130,safe,46,100,100,100,74,77,56,64,FDCHGBEA,Fa,AH,Conj2,have a public library,4,0
+8,130,safe,46,100,100,100,74,77,56,64,FDCHGBEA,T1,ADFGH,Num3,are situated North of the city center,1,100
+8,130,safe,46,100,100,100,74,77,56,64,FDCHGBEA,T2,ABEH,Num2,have a hardware store,3,100
+226,131,complete,79,100,30,0,10,39,16,100,DBHAGCEF,Tr,GH,Conj2,are about credit card fraud,2,100
+226,131,complete,79,100,30,0,10,39,16,100,DBHAGCEF,Fa,ABH,None,affect retired clients,3,0
+226,131,complete,79,100,30,0,10,39,16,100,DBHAGCEF,T1,DEGH,All,involve a repeat offender,1,12
+226,131,complete,79,100,30,0,10,39,16,100,DBHAGCEF,T2,ABDE,Some,require an official statement from the bank,4,0
+135,132,full,67,39,68,77,29,65,21,62,FAGBEDHC,Tr,ADGH,Some,included a layover,4,39
+135,132,full,67,39,68,77,29,65,21,62,FAGBEDHC,Fa,ABDE,Num3,left in the morning,3,30
+135,132,full,67,39,68,77,29,65,21,62,FAGBEDHC,T1,ABDGH,Num2,used a Boeing model plane,2,67
+135,132,full,67,39,68,77,29,65,21,62,FAGBEDHC,T2,DEH,All,were international,1,77
+24,133,tall,70,61,60,57,53,74,71,64,BDEACGHF,Tr,ADGH,Some,have roommates,3,39
+24,133,tall,70,61,60,57,53,74,71,64,BDEACGHF,Fa,AH,Conj2,drink coffee,4,64
+24,133,tall,70,61,60,57,53,74,71,64,BDEACGHF,T1,ADFGH,Num3,play video games,2,35
+24,133,tall,70,61,60,57,53,74,71,64,BDEACGHF,T2,ABDE,None,use public transport,1,70
+260,134,powerful,83,9,29,14,84,85,85,89,CGHBAEFD,Tr,GH,Conj2,are black,1,100
+260,134,powerful,83,9,29,14,84,85,85,89,CGHBAEFD,Fa,AB,Some,have heated seats,3,0
+260,134,powerful,83,9,29,14,84,85,85,89,CGHBAEFD,T1,ABEGH,Num2,have leather interiors,2,100
+260,134,powerful,83,9,29,14,84,85,85,89,CGHBAEFD,T2,ADEH,Num3,have a touchscreen,4,83
+192,135,young,0,30,39,14,99,93,90,85,CHEBDGFA,Tr,ADGH,Some,are left-handed,3,79
+192,135,young,0,30,39,14,99,93,90,85,CHEBDGFA,Fa,AH,Conj2,use black pens,2,0
+192,135,young,0,30,39,14,99,93,90,85,CHEBDGFA,T1,ADFGH,Num3,have houseplants,1,100
+192,135,young,0,30,39,14,99,93,90,85,CHEBDGFA,T2,ABDH,Num2,keep journals,4,64
+42,136,hot,87,16,75,95,24,83,74,61,EACHBDFG,Tr,ABC,None,were workdays,1,80
+42,136,hot,87,16,75,95,24,83,74,61,EACHBDFG,Fa,AB,Some,had high humidity,2,26
+42,136,hot,87,16,75,95,24,83,74,61,EACHBDFG,T1,DH,Conj2,were windy,3,93
+42,136,hot,87,16,75,95,24,83,74,61,EACHBDFG,T2,ADEH,Num3,had heavy traffic,4,77
+215,137,expensive,18,48,1,0,50,100,0,66,CFGBEAHD,Tr,ABC,None,are grey,3,0
+215,137,expensive,18,48,1,0,50,100,0,66,CFGBEAHD,Fa,ABDE,Num3,have tinted windows,1,9
+215,137,expensive,18,48,1,0,50,100,0,66,CFGBEAHD,T1,DEGH,All,have the gas tank door on the left side,4,100
+215,137,expensive,18,48,1,0,50,100,0,66,CFGBEAHD,T2,ABDE,Some,have reflector headlights,2,11
+196,138,large,85,6,56,8,89,47,72,3,FHBCAEDG,Tr,ABGH,Num2,have double-glazed windows,2,99
+196,138,large,85,6,56,8,89,47,72,3,FHBCAEDG,Fa,ABH,Conj3,have air conditioning,1,21
+196,138,large,85,6,56,8,89,47,72,3,FHBCAEDG,T1,DEGH,Some,are located on the top floor,4,98
+196,138,large,85,6,56,8,89,47,72,3,FHBCAEDG,T2,DEH,All,come pre-furnished,3,83
+132,139,late,49,100,100,11,2,3,63,82,GBFCHEAD,Tr,ABC,None,work in HR,1,100
+132,139,late,49,100,100,11,2,3,63,82,GBFCHEAD,Fa,ABD,Num2,drink tea,3,4
+132,139,late,49,100,100,11,2,3,63,82,GBFCHEAD,T1,EGH,Conj3,bring packed lunches,4,100
+132,139,late,49,100,100,11,2,3,63,82,GBFCHEAD,T2,DEH,All,use post-it notes,2,34
+75,140,spicy,71,0,89,100,53,0,0,18,GEDHCABF,Tr,ABGH,Num2,are served with noodles,2,100
+75,140,spicy,71,0,89,100,53,0,0,18,GEDHCABF,Fa,AH,Conj2,contain holy basil,3,0
+75,140,spicy,71,0,89,100,53,0,0,18,GEDHCABF,T1,AEFGH,Num3,contain lemongrass,1,100
+75,140,spicy,71,0,89,100,53,0,0,18,GEDHCABF,T2,DEH,All,come with complimentary prawn crackers,4,100
+174,141,profitable,60,73,23,69,4,13,50,96,CAHFGDBE,Tr,ABC,None,are construction companies,3,74
+174,141,profitable,60,73,23,69,4,13,50,96,CAHFGDBE,Fa,AH,Conj2,have employee uniforms,1,85
+174,141,profitable,60,73,23,69,4,13,50,96,CAHFGDBE,T1,ABDGH,Num2,have 24/7 customer support,2,71
+174,141,profitable,60,73,23,69,4,13,50,96,CAHFGDBE,T2,DEH,All,are family businesses,4,76
+221,142,safe,50,50,50,72,50,50,50,50,CBAGDHFE,Tr,ABC,None,have a hardware store,3,79
+221,142,safe,50,50,50,72,50,50,50,50,CBAGDHFE,Fa,ABDH,All,are situated North of the city center,4,79
+221,142,safe,50,50,50,72,50,50,50,50,CBAGDHFE,T1,ADFGH,Num3,have a public library,2,73
+221,142,safe,50,50,50,72,50,50,50,50,CBAGDHFE,T2,ABEH,Num2,border a river,1,64
+250,143,complete,86,73,1,100,51,17,100,96,ACFHDGBE,Tr,ABGH,Num2,affect retired clients,1,100
+250,143,complete,86,73,1,100,51,17,100,96,ACFHDGBE,Fa,AB,Some,require an official statement from the bank,2,0
+250,143,complete,86,73,1,100,51,17,100,96,ACFHDGBE,T1,DGH,Conj3,are about credit card fraud,3,0
+250,143,complete,86,73,1,100,51,17,100,96,ACFHDGBE,T2,DEH,All,involve a repeat offender,4,0
+85,144,full,100,69,1,14,0,12,50,31,GHCEBFDA,Tr,AFGH,Num3,were international,2,80
+85,144,full,100,69,1,14,0,12,50,31,GHCEBFDA,Fa,ABE,Num2,included a layover,4,79
+85,144,full,100,69,1,14,0,12,50,31,GHCEBFDA,T1,DEGH,All,left in the morning,1,69
+85,144,full,100,69,1,14,0,12,50,31,GHCEBFDA,T2,DEH,Conj3,used a Boeing model plane,3,76
+148,145,tall,100,71,22,100,100,78,100,60,BEAHDFGC,Tr,GH,Conj2,use public transport,2,100
+148,145,tall,100,71,22,100,100,78,100,60,BEAHDFGC,Fa,AB,Some,play video games,1,30
+148,145,tall,100,71,22,100,100,78,100,60,BEAHDFGC,T1,ABEGH,Num2,have roommates,4,100
+148,145,tall,100,71,22,100,100,78,100,60,BEAHDFGC,T2,ABDE,None,drink coffee,3,17
+47,146,powerful,80,20,100,38,68,35,50,100,GEHCADBF,Tr,AEGH,Some,have leather interiors,2,100
+47,146,powerful,80,20,100,38,68,35,50,100,GEHCADBF,Fa,ABDE,Num3,have heated seats,4,0
+47,146,powerful,80,20,100,38,68,35,50,100,GEHCADBF,T1,ABD,None,have a touchscreen,3,21
+47,146,powerful,80,20,100,38,68,35,50,100,GEHCADBF,T2,DEH,Conj3,are black,1,71
+26,147,young,19,0,100,0,57,91,100,77,GDEBAHFC,Tr,ABC,None,have houseplants,1,100
+26,147,young,19,0,100,0,57,91,100,77,GDEBAHFC,Fa,AB,Some,are left-handed,2,0
+26,147,young,19,0,100,0,57,91,100,77,GDEBAHFC,T1,AEFGH,Num3,use black pens,4,100
+26,147,young,19,0,100,0,57,91,100,77,GDEBAHFC,T2,AE,Conj2,keep journals,3,20
+243,148,hot,74,39,50,25,67,86,8,50,DCEGFHAB,Tr,FGH,Conj3,had high humidity,2,78
+243,148,hot,74,39,50,25,67,86,8,50,DCEGFHAB,Fa,ABEH,All,had heavy traffic,3,50
+243,148,hot,74,39,50,25,67,86,8,50,DCEGFHAB,T1,ABDGH,Num2,were windy,1,63
+243,148,hot,74,39,50,25,67,86,8,50,DCEGFHAB,T2,ABDE,Some,were workdays,4,60
+90,149,expensive,21,50,87,37,50,61,19,95,DBHEFCGA,Tr,ABGH,Num2,have the gas tank door on the left side,4,23
+90,149,expensive,21,50,87,37,50,61,19,95,DBHEFCGA,Fa,AB,Some,have reflector headlights,2,61
+90,149,expensive,21,50,87,37,50,61,19,95,DBHEFCGA,T1,EH,Conj2,are grey,3,69
+90,149,expensive,21,50,87,37,50,61,19,95,DBHEFCGA,T2,ADEH,Num3,have tinted windows,1,68
+290,150,large,26,62,16,83,68,50,38,37,AGDHFCEB,Tr,FGH,Conj3,come pre-furnished,1,100
+290,150,large,26,62,16,83,68,50,38,37,AGDHFCEB,Fa,ABDE,Num3,have double-glazed windows,3,40
+290,150,large,26,62,16,83,68,50,38,37,AGDHFCEB,T1,ABD,None,are located on the top floor,4,60
+290,150,large,26,62,16,83,68,50,38,37,AGDHFCEB,T2,ABDE,Some,have air conditioning,2,37
+69,151,late,70,100,15,41,13,81,54,68,ABECHDGF,Tr,AFGH,Num3,work in HR,4,61
+69,151,late,70,100,15,41,13,81,54,68,ABECHDGF,Fa,ABH,None,use post-it notes,1,1
+69,151,late,70,100,15,41,13,81,54,68,ABECHDGF,T1,EGH,Conj3,bring packed lunches,3,88
+69,151,late,70,100,15,41,13,81,54,68,ABECHDGF,T2,ABDE,Some,drink tea,2,59
+176,152,spicy,100,0,1,100,72,0,51,100,BEHFCDAG,Tr,AFGH,Num3,come with complimentary prawn crackers,2,0
+176,152,spicy,100,0,1,100,72,0,51,100,BEHFCDAG,Fa,AB,Some,contain holy basil,4,100
+176,152,spicy,100,0,1,100,72,0,51,100,BEHFCDAG,T1,EGH,Conj3,are served with noodles,3,100
+176,152,spicy,100,0,1,100,72,0,51,100,BEHFCDAG,T2,DEH,All,contain lemongrass,1,0
+271,153,profitable,65,13,77,42,100,54,4,89,FHGCBADE,Tr,FGH,All,have employee uniforms,2,100
+271,153,profitable,65,13,77,42,100,54,4,89,FHGCBADE,Fa,AB,Some,are family businesses,3,0
+271,153,profitable,65,13,77,42,100,54,4,89,FHGCBADE,T1,ABD,None,are construction companies,1,80
+271,153,profitable,65,13,77,42,100,54,4,89,FHGCBADE,T2,ABDH,Num2,have 24/7 customer support,4,69
+39,154,safe,69,67,54,82,86,13,18,100,CGHFDBAE,Tr,AEGH,Some,are situated North of the city center,4,100
+39,154,safe,69,67,54,82,86,13,18,100,CGHFDBAE,Fa,AH,Conj2,have a public library,3,7
+39,154,safe,69,67,54,82,86,13,18,100,CGHFDBAE,T1,ABE,None,have a hardware store,1,15
+39,154,safe,69,67,54,82,86,13,18,100,CGHFDBAE,T2,ABEH,Num2,border a river,2,75
+140,155,complete,24,0,50,86,100,82,68,100,CHGFADEB,Tr,AEGH,Some,involve a repeat offender,4,72
+140,155,complete,24,0,50,86,100,82,68,100,CHGFADEB,Fa,ABDH,All,are about credit card fraud,1,73
+140,155,complete,24,0,50,86,100,82,68,100,CHGFADEB,T1,ADFGH,Num3,affect retired clients,3,85
+140,155,complete,24,0,50,86,100,82,68,100,CHGFADEB,T2,AE,Conj2,require an official statement from the bank,2,14
+71,156,full,100,63,50,76,20,100,56,3,FBAECDHG,Tr,GH,Conj2,used a Boeing model plane,3,100
+71,156,full,100,63,50,76,20,100,56,3,FBAECDHG,Fa,ABEH,All,were international,4,0
+71,156,full,100,63,50,76,20,100,56,3,FBAECDHG,T1,DEGH,Some,left in the morning,1,100
+71,156,full,100,63,50,76,20,100,56,3,FBAECDHG,T2,ADEH,Num3,included a layover,2,0
+258,157,tall,61,50,72,61,77,75,23,39,AGEFHCDB,Tr,FGH,All,play video games,2,82
+258,157,tall,61,50,72,61,77,75,23,39,AGEFHCDB,Fa,AH,Conj2,have roommates,1,87
+258,157,tall,61,50,72,61,77,75,23,39,AGEFHCDB,T1,DEGH,Some,drink coffee,4,60
+258,157,tall,61,50,72,61,77,75,23,39,AGEFHCDB,T2,ABDE,None,use public transport,3,71
+168,158,powerful,93,25,89,100,100,100,28,78,DHCGABFE,Tr,GH,Conj2,have leather interiors,3,73
+168,158,powerful,93,25,89,100,100,100,28,78,DHCGABFE,Fa,ABDH,All,have heated seats,2,30
+168,158,powerful,93,25,89,100,100,100,28,78,DHCGABFE,T1,ABD,None,have a touchscreen,4,100
+168,158,powerful,93,25,89,100,100,100,28,78,DHCGABFE,T2,ADEH,Num3,are black,1,87
+37,159,young,77,80,81,63,79,83,87,90,BDHAGCFE,Tr,AFGH,Num3,keep journals,1,85
+37,159,young,77,80,81,63,79,83,87,90,BDHAGCFE,Fa,ABH,Conj3,use black pens,3,18
+37,159,young,77,80,81,63,79,83,87,90,BDHAGCFE,T1,DH,Conj2,are left-handed,2,41
+37,159,young,77,80,81,63,79,83,87,90,BDHAGCFE,T2,ABDE,None,have houseplants,4,65
+23,160,hot,1,30,100,82,70,19,95,60,HEDFCGBA,Tr,GH,Conj2,had high humidity,3,97
+23,160,hot,1,30,100,82,70,19,95,60,HEDFCGBA,Fa,ABH,Conj3,had heavy traffic,2,42
+23,160,hot,1,30,100,82,70,19,95,60,HEDFCGBA,T1,ADFGH,Num3,were windy,4,66
+23,160,hot,1,30,100,82,70,19,95,60,HEDFCGBA,T2,ABDE,None,were workdays,1,44
+151,161,expensive,86,29,69,77,21,50,69,15,EBAGCFDH,Tr,AEGH,Some,have tinted windows,1,100
+151,161,expensive,86,29,69,77,21,50,69,15,EBAGCFDH,Fa,AH,Conj2,are grey,2,55
+151,161,expensive,86,29,69,77,21,50,69,15,EBAGCFDH,T1,ABEGH,Num2,have reflector headlights,3,33
+151,161,expensive,86,29,69,77,21,50,69,15,EBAGCFDH,T2,ABDE,None,have the gas tank door on the left side,4,9
+255,162,large,42,11,100,30,50,25,89,81,HDEBAFGC,Tr,ABGH,Num2,are located on the top floor,1,100
+255,162,large,42,11,100,30,50,25,89,81,HDEBAFGC,Fa,ABDE,Num3,come pre-furnished,2,5
+255,162,large,42,11,100,30,50,25,89,81,HDEBAFGC,T1,ABD,None,have double-glazed windows,3,67
+255,162,large,42,11,100,30,50,25,89,81,HDEBAFGC,T2,DEH,All,have air conditioning,4,88
+153,163,late,0,100,1,0,0,100,0,0,EBCDHFGA,Tr,FGH,Conj3,drink tea,3,71
+153,163,late,0,100,1,0,0,100,0,0,EBCDHFGA,Fa,ABEH,All,bring packed lunches,4,38
+153,163,late,0,100,1,0,0,100,0,0,EBCDHFGA,T1,AEFGH,Num3,work in HR,1,68
+153,163,late,0,100,1,0,0,100,0,0,EBCDHFGA,T2,ABDE,Some,use post-it notes,2,14
+198,164,spicy,0,77,80,0,0,100,68,50,GBDAFEHC,Tr,ABGH,Num2,contain lemongrass,2,99
+198,164,spicy,0,77,80,0,0,100,68,50,GBDAFEHC,Fa,ABH,None,are served with noodles,4,0
+198,164,spicy,0,77,80,0,0,100,68,50,GBDAFEHC,T1,DEGH,Some,come with complimentary prawn crackers,1,100
+198,164,spicy,0,77,80,0,0,100,68,50,GBDAFEHC,T2,AD,Conj2,contain holy basil,3,0
+124,165,profitable,100,100,1,100,100,0,100,0,AECDGFBH,Tr,GH,Conj2,have 24/7 customer support,2,100
+124,165,profitable,100,100,1,100,100,0,100,0,AECDGFBH,Fa,ABH,None,are family businesses,1,0
+124,165,profitable,100,100,1,100,100,0,100,0,AECDGFBH,T1,DEGH,Some,have employee uniforms,3,100
+124,165,profitable,100,100,1,100,100,0,100,0,AECDGFBH,T2,DEH,Conj3,are construction companies,4,100
+78,166,safe,50,86,100,100,100,36,0,64,HECGDABF,Tr,AFGH,Num3,are situated North of the city center,1,100
+78,166,safe,50,86,100,100,100,36,0,64,HECGDABF,Fa,AB,Some,have a hardware store,2,0
+78,166,safe,50,86,100,100,100,36,0,64,HECGDABF,T1,DEGH,All,have a public library,4,100
+78,166,safe,50,86,100,100,100,36,0,64,HECGDABF,T2,DEH,Conj3,border a river,3,100
+286,167,complete,64,75,69,74,96,67,77,87,BACEFGHD,Tr,FGH,Conj3,affect retired clients,3,81
+286,167,complete,64,75,69,74,96,67,77,87,BACEFGHD,Fa,AH,Conj2,require an official statement from the bank,1,70
+286,167,complete,64,75,69,74,96,67,77,87,BACEFGHD,T1,AEFGH,Num3,are about credit card fraud,2,47
+286,167,complete,64,75,69,74,96,67,77,87,BACEFGHD,T2,ABDH,Num2,involve a repeat offender,4,54
+21,168,full,100,82,15,71,40,65,61,100,ABHEFCDG,Tr,GH,Conj2,used a Boeing model plane,3,100
+21,168,full,100,82,15,71,40,65,61,100,ABHEFCDG,Fa,ABDE,Num3,left in the morning,2,13
+21,168,full,100,82,15,71,40,65,61,100,ABHEFCDG,T1,ABDGH,Num2,were international,4,100
+21,168,full,100,82,15,71,40,65,61,100,ABHEFCDG,T2,ABDE,Some,included a layover,1,15
+107,169,tall,24,26,80,25,73,30,75,92,DCEBGAHF,Tr,GH,Conj2,drink coffee,3,64
+107,169,tall,24,26,80,25,73,30,75,92,DCEBGAHF,Fa,ABDE,Num3,have roommates,1,87
+107,169,tall,24,26,80,25,73,30,75,92,DCEBGAHF,T1,DGH,Conj3,use public transport,4,100
+107,169,tall,24,26,80,25,73,30,75,92,DCEBGAHF,T2,ABDH,Num2,play video games,2,24
+234,170,powerful,48,100,1,100,100,50,100,0,AGBHEFDC,Tr,FGH,All,have leather interiors,1,100
+234,170,powerful,48,100,1,100,100,50,100,0,AGBHEFDC,Fa,AH,Conj2,have a touchscreen,2,0
+234,170,powerful,48,100,1,100,100,50,100,0,AGBHEFDC,T1,ABD,None,have heated seats,3,0
+234,170,powerful,48,100,1,100,100,50,100,0,AGBHEFDC,T2,DEH,Conj3,are black,4,65
+268,171,young,100,66,100,34,0,65,61,73,GAFCEDBH,Tr,ABC,None,keep journals,1,50
+268,171,young,100,66,100,34,0,65,61,73,GAFCEDBH,Fa,AH,Conj2,have houseplants,3,20
+268,171,young,100,66,100,34,0,65,61,73,GAFCEDBH,T1,ABEGH,Num2,use black pens,4,74
+268,171,young,100,66,100,34,0,65,61,73,GAFCEDBH,T2,ABDE,Some,are left-handed,2,76
+127,172,hot,58,61,100,98,41,78,77,100,HAFGBDEC,Tr,AFGH,Num3,were windy,1,100
+127,172,hot,58,61,100,98,41,78,77,100,HAFGBDEC,Fa,AH,Conj2,were workdays,3,32
+127,172,hot,58,61,100,98,41,78,77,100,HAFGBDEC,T1,ABDGH,Num2,had high humidity,4,83
+127,172,hot,58,61,100,98,41,78,77,100,HAFGBDEC,T2,ABDE,Some,had heavy traffic,2,71
+195,173,expensive,88,0,14,46,36,100,66,29,BCDEAFHG,Tr,AFGH,Num3,have reflector headlights,3,80
+195,173,expensive,88,0,14,46,36,100,66,29,BCDEAFHG,Fa,AB,Some,are grey,4,72
+195,173,expensive,88,0,14,46,36,100,66,29,BCDEAFHG,T1,DH,Conj2,have the gas tank door on the left side,1,58
+195,173,expensive,88,0,14,46,36,100,66,29,BCDEAFHG,T2,DEH,Conj3,have tinted windows,2,57
+41,174,large,15,100,100,70,0,50,8,83,HAFEGBDC,Tr,GH,Conj2,are located on the top floor,1,100
+41,174,large,15,100,100,70,0,50,8,83,HAFEGBDC,Fa,AB,Some,come pre-furnished,4,0
+41,174,large,15,100,100,70,0,50,8,83,HAFEGBDC,T1,ABDGH,Num2,have air conditioning,2,100
+41,174,large,15,100,100,70,0,50,8,83,HAFEGBDC,T2,ABDE,None,have double-glazed windows,3,59
+287,175,late,27,98,100,50,99,2,10,66,FGEDHBAC,Tr,FGH,All,work in HR,4,95
+287,175,late,27,98,100,50,99,2,10,66,FGEDHBAC,Fa,ABD,Num2,bring packed lunches,1,28
+287,175,late,27,98,100,50,99,2,10,66,FGEDHBAC,T1,EGH,Conj3,use post-it notes,3,100
+287,175,late,27,98,100,50,99,2,10,66,FGEDHBAC,T2,AD,Conj2,drink tea,2,19
+113,176,spicy,97,63,1,1,98,4,98,81,AHEBDGCF,Tr,FGH,Conj3,contain holy basil,4,100
+113,176,spicy,97,63,1,1,98,4,98,81,AHEBDGCF,Fa,ABDE,Num3,are served with noodles,1,2
+113,176,spicy,97,63,1,1,98,4,98,81,AHEBDGCF,T1,DEGH,Some,come with complimentary prawn crackers,3,97
+113,176,spicy,97,63,1,1,98,4,98,81,AHEBDGCF,T2,ABDH,Num2,contain lemongrass,2,77
+254,177,profitable,71,0,87,14,2,50,96,100,FBHCADEG,Tr,GH,Conj2,have 24/7 customer support,2,78
+254,177,profitable,71,0,87,14,2,50,96,100,FBHCADEG,Fa,ABH,None,are construction companies,1,56
+254,177,profitable,71,0,87,14,2,50,96,100,FBHCADEG,T1,DEGH,All,are family businesses,3,68
+254,177,profitable,71,0,87,14,2,50,96,100,FBHCADEG,T2,ADEH,Num3,have employee uniforms,4,11
+51,178,safe,74,0,85,45,89,16,66,100,FGHCADBE,Tr,AFGH,Num3,have a public library,2,90
+51,178,safe,74,0,85,45,89,16,66,100,FGHCADBE,Fa,ABH,None,have a hardware store,4,0
+51,178,safe,74,0,85,45,89,16,66,100,FGHCADBE,T1,DEGH,All,border a river,3,63
+51,178,safe,74,0,85,45,89,16,66,100,FGHCADBE,T2,DEH,Conj3,are situated North of the city center,1,68
+219,179,complete,51,85,100,6,100,90,19,79,HGDAEBFC,Tr,ABGH,Num2,affect retired clients,3,100
+219,179,complete,51,85,100,6,100,90,19,79,HGDAEBFC,Fa,ABDE,Num3,involve a repeat offender,4,16
+219,179,complete,51,85,100,6,100,90,19,79,HGDAEBFC,T1,ABE,None,are about credit card fraud,2,83
+219,179,complete,51,85,100,6,100,90,19,79,HGDAEBFC,T2,DEH,All,require an official statement from the bank,1,19
+134,180,full,3,98,14,99,100,77,98,98,BFHGDECA,Tr,FGH,Conj3,left in the morning,2,99
+134,180,full,3,98,14,99,100,77,98,98,BFHGDECA,Fa,AH,Conj2,used a Boeing model plane,4,1
+134,180,full,3,98,14,99,100,77,98,98,BFHGDECA,T1,ABEGH,Num2,included a layover,1,98
+134,180,full,3,98,14,99,100,77,98,98,BFHGDECA,T2,DEH,All,were international,3,98
+95,181,tall,100,50,50,50,50,50,50,50,DAFGCHBE,Tr,AFGH,Num3,use public transport,4,100
+95,181,tall,100,50,50,50,50,50,50,50,DAFGCHBE,Fa,AB,Some,have roommates,1,100
+95,181,tall,100,50,50,50,50,50,50,50,DAFGCHBE,T1,DEGH,All,drink coffee,3,0
+95,181,tall,100,50,50,50,50,50,50,50,DAFGCHBE,T2,ABEH,Num2,play video games,2,0
+213,182,powerful,29,23,65,59,33,67,50,75,FCHEADGB,Tr,ABGH,Num2,have heated seats,1,87
+213,182,powerful,29,23,65,59,33,67,50,75,FCHEADGB,Fa,ABH,Conj3,have leather interiors,3,13
+213,182,powerful,29,23,65,59,33,67,50,75,FCHEADGB,T1,DEGH,All,have a touchscreen,4,55
+213,182,powerful,29,23,65,59,33,67,50,75,FCHEADGB,T2,ABDE,None,are black,2,30
+229,183,young,33,24,60,100,100,71,67,14,DHAGBEFC,Tr,FGH,All,are left-handed,3,100
+229,183,young,33,24,60,100,100,71,67,14,DHAGBEFC,Fa,AB,Some,have houseplants,1,2
+229,183,young,33,24,60,100,100,71,67,14,DHAGBEFC,T1,ABE,None,keep journals,4,25
+229,183,young,33,24,60,100,100,71,67,14,DHAGBEFC,T2,AE,Conj2,use black pens,2,0
+11,184,hot,74,81,77,80,83,78,78,84,AFGHDCBE,Tr,GH,Conj2,were windy,4,85
+11,184,hot,74,81,77,80,83,78,78,84,AFGHDCBE,Fa,AB,Some,had high humidity,1,89
+11,184,hot,74,81,77,80,83,78,78,84,AFGHDCBE,T1,ABDGH,Num2,had heavy traffic,2,86
+11,184,hot,74,81,77,80,83,78,78,84,AFGHDCBE,T2,DEH,Conj3,were workdays,3,50
+14,185,expensive,89,92,59,30,86,43,100,13,DFABGHCE,Tr,ABGH,Num2,have the gas tank door on the left side,2,100
+14,185,expensive,89,92,59,30,86,43,100,13,DFABGHCE,Fa,ABEH,All,are grey,1,22
+14,185,expensive,89,92,59,30,86,43,100,13,DFABGHCE,T1,ABE,None,have reflector headlights,4,0
+14,185,expensive,89,92,59,30,86,43,100,13,DFABGHCE,T2,ABDE,Some,have tinted windows,3,58
+52,186,large,51,83,34,15,100,72,0,62,CHEBGAFD,Tr,ABGH,Num2,are located on the top floor,3,100
+52,186,large,51,83,34,15,100,72,0,62,CHEBGAFD,Fa,ABDH,All,come pre-furnished,1,0
+52,186,large,51,83,34,15,100,72,0,62,CHEBGAFD,T1,EGH,Conj3,have air conditioning,2,73
+52,186,large,51,83,34,15,100,72,0,62,CHEBGAFD,T2,ABDE,None,have double-glazed windows,4,60
+72,187,late,55,100,70,77,26,100,92,3,DBAEGFHC,Tr,ABC,None,work in HR,4,85
+72,187,late,55,100,70,77,26,100,92,3,DBAEGFHC,Fa,ABE,Num2,use post-it notes,3,3
+72,187,late,55,100,70,77,26,100,92,3,DBAEGFHC,T1,DEGH,Some,drink tea,2,89
+72,187,late,55,100,70,77,26,100,92,3,DBAEGFHC,T2,ADEH,Num3,bring packed lunches,1,35
+22,188,spicy,0,91,69,72,0,100,62,4,DBAGFEHC,Tr,ADGH,Some,come with complimentary prawn crackers,4,15
+22,188,spicy,0,91,69,72,0,100,62,4,DBAGFEHC,Fa,AH,Conj2,are served with noodles,1,0
+22,188,spicy,0,91,69,72,0,100,62,4,DBAGFEHC,T1,DEGH,All,contain holy basil,3,66
+22,188,spicy,0,91,69,72,0,100,62,4,DBAGFEHC,T2,ADEH,Num3,contain lemongrass,2,0
+12,189,profitable,15,55,59,20,70,39,47,78,DGFBEHCA,Tr,ABGH,Num2,have 24/7 customer support,4,35
+12,189,profitable,15,55,59,20,70,39,47,78,DGFBEHCA,Fa,ABH,None,are construction companies,3,59
+12,189,profitable,15,55,59,20,70,39,47,78,DGFBEHCA,T1,ADFGH,Num3,have employee uniforms,1,45
+12,189,profitable,15,55,59,20,70,39,47,78,DGFBEHCA,T2,DEH,Conj3,are family businesses,2,68
+111,190,safe,82,89,50,83,96,50,84,50,HBFCAGDE,Tr,ABGH,Num2,border a river,2,50
+111,190,safe,82,89,50,83,96,50,84,50,HBFCAGDE,Fa,ABH,Conj3,have a hardware store,1,96
+111,190,safe,82,89,50,83,96,50,84,50,HBFCAGDE,T1,EH,Conj2,have a public library,3,23
+111,190,safe,82,89,50,83,96,50,84,50,HBFCAGDE,T2,DEH,All,are situated North of the city center,4,0
+292,191,complete,76,63,21,80,76,28,86,42,BECGDHAF,Tr,FGH,All,require an official statement from the bank,3,71
+292,191,complete,76,63,21,80,76,28,86,42,BECGDHAF,Fa,AH,Conj2,affect retired clients,1,73
+292,191,complete,76,63,21,80,76,28,86,42,BECGDHAF,T1,AEFGH,Num3,involve a repeat offender,4,40
+292,191,complete,76,63,21,80,76,28,86,42,BECGDHAF,T2,ABDE,None,are about credit card fraud,2,71
+263,192,full,65,95,62,79,67,82,1,6,FDHCAGBE,Tr,ABC,None,left in the morning,4,97
+263,192,full,65,95,62,79,67,82,1,6,FDHCAGBE,Fa,ABH,Conj3,included a layover,1,4
+263,192,full,65,95,62,79,67,82,1,6,FDHCAGBE,T1,DEGH,All,were international,3,2
+263,192,full,65,95,62,79,67,82,1,6,FDHCAGBE,T2,ADEH,Num3,used a Boeing model plane,2,8
+152,193,tall,20,85,50,15,85,92,50,79,CGEAFDHB,Tr,ABGH,Num2,play video games,4,100
+152,193,tall,20,85,50,15,85,92,50,79,CGEAFDHB,Fa,ABH,Conj3,use public transport,2,14
+152,193,tall,20,85,50,15,85,92,50,79,CGEAFDHB,T1,DEGH,Some,drink coffee,3,100
+152,193,tall,20,85,50,15,85,92,50,79,CGEAFDHB,T2,ABDE,None,have roommates,1,71
+264,194,powerful,58,42,9,14,76,78,32,81,AFHBDCGE,Tr,GH,Conj2,have leather interiors,4,100
+264,194,powerful,58,42,9,14,76,78,32,81,AFHBDCGE,Fa,ABDE,Num3,are black,2,0
+264,194,powerful,58,42,9,14,76,78,32,81,AFHBDCGE,T1,DEGH,Some,have a touchscreen,3,91
+264,194,powerful,58,42,9,14,76,78,32,81,AFHBDCGE,T2,ABEH,Num2,have heated seats,1,68
+218,195,young,53,41,93,77,100,21,69,35,GHBFDEAC,Tr,ABC,None,are left-handed,2,100
+218,195,young,53,41,93,77,100,21,69,35,GHBFDEAC,Fa,ABH,Conj3,keep journals,1,4
+218,195,young,53,41,93,77,100,21,69,35,GHBFDEAC,T1,ABDGH,Num2,use black pens,3,100
+218,195,young,53,41,93,77,100,21,69,35,GHBFDEAC,T2,DEH,All,have houseplants,4,38
+197,196,hot,86,100,1,58,35,20,73,60,ACDEHFBG,Tr,FGH,Conj3,were workdays,3,100
+197,196,hot,86,100,1,58,35,20,73,60,ACDEHFBG,Fa,ABDE,Num3,had heavy traffic,1,45
+197,196,hot,86,100,1,58,35,20,73,60,ACDEHFBG,T1,ABDGH,Num2,had high humidity,4,100
+197,196,hot,86,100,1,58,35,20,73,60,ACDEHFBG,T2,ABDE,Some,were windy,2,88
+141,197,expensive,0,70,100,0,65,64,33,100,HFGBECDA,Tr,FGH,Conj3,are grey,4,82
+141,197,expensive,0,70,100,0,65,64,33,100,HFGBECDA,Fa,AH,Conj2,have the gas tank door on the left side,3,50
+141,197,expensive,0,70,100,0,65,64,33,100,HFGBECDA,T1,ABDGH,Num2,have reflector headlights,1,100
+141,197,expensive,0,70,100,0,65,64,33,100,HFGBECDA,T2,ABDE,Some,have tinted windows,2,65
+126,198,large,100,26,27,9,24,86,69,70,BCDAFEGH,Tr,GH,Conj2,have air conditioning,3,96
+126,198,large,100,26,27,9,24,86,69,70,BCDAFEGH,Fa,ABH,Conj3,have double-glazed windows,1,81
+126,198,large,100,26,27,9,24,86,69,70,BCDAFEGH,T1,ABDGH,Num2,are located on the top floor,2,26
+126,198,large,100,26,27,9,24,86,69,70,BCDAFEGH,T2,ABDE,None,come pre-furnished,4,67
+43,199,late,100,100,1,0,0,0,100,100,BDFCHGAE,Tr,AFGH,Num3,bring packed lunches,2,100
+43,199,late,100,100,1,0,0,0,100,100,BDFCHGAE,Fa,ABD,Num2,use post-it notes,3,0
+43,199,late,100,100,1,0,0,0,100,100,BDFCHGAE,T1,DEGH,Some,drink tea,1,100
+43,199,late,100,100,1,0,0,0,100,100,BDFCHGAE,T2,DEH,All,work in HR,4,11
+285,200,spicy,100,73,78,0,61,0,0,68,GDFAEBCH,Tr,ABC,None,contain holy basil,1,70
+285,200,spicy,100,73,78,0,61,0,0,68,GDFAEBCH,Fa,AB,Some,contain lemongrass,3,34
+285,200,spicy,100,73,78,0,61,0,0,68,GDFAEBCH,T1,DEGH,All,come with complimentary prawn crackers,4,73
+285,200,spicy,100,73,78,0,61,0,0,68,GDFAEBCH,T2,ABEH,Num2,are served with noodles,2,62
